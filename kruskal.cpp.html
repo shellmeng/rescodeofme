@@ -1,0 +1,97 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>/mnt/hgfs/linux/rescode/rescodeofme/kruskal.cpp.html</title>
+<meta name="Generator" content="Vim/7.2">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body bgcolor="#ffffff" text="#000000"><font face="monospace">
+<font color="#ffff00">&nbsp;1 </font><font color="#ff40ff">#include</font><font color="#ff6060">&lt;stdio.h&gt;</font><br>
+<font color="#ffff00">&nbsp;2 </font><font color="#ff40ff">#include</font><font color="#ff6060">&lt;stdlib.h&gt;</font><br>
+<font color="#ffff00">&nbsp;3 </font><br>
+<font color="#ffff00">&nbsp;4 </font><font color="#ff40ff">#define MAX </font><font color="#ff6060">1000</font><br>
+<font color="#ffff00">&nbsp;5 </font><br>
+<font color="#ffff00">&nbsp;6 </font><font color="#00ff00">int</font>&nbsp;N;<br>
+<font color="#ffff00">&nbsp;7 </font><font color="#00ff00">int</font>&nbsp;E;<br>
+<font color="#ffff00">&nbsp;8 </font><br>
+<font color="#ffff00">&nbsp;9 </font><font color="#00ff00">typedef</font>&nbsp;<font color="#00ff00">struct</font>&nbsp;edge<br>
+<font color="#ffff00">10 </font>{<br>
+<font color="#ffff00">11 </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#00ff00">int</font>&nbsp;from;<br>
+<font color="#ffff00">12 </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#00ff00">int</font>&nbsp;to;<br>
+<font color="#ffff00">13 </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#00ff00">int</font>&nbsp;len;<br>
+<font color="#ffff00">14 </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#00ff00">int</font>&nbsp;w;<br>
+<font color="#ffff00">15 </font>}edge;<br>
+<font color="#ffff00">16 </font><br>
+<font color="#ffff00">17 </font>edge e[MAX];<br>
+<font color="#ffff00">18 </font><font color="#00ff00">int</font>&nbsp;nodeset[MAX];<br>
+<font color="#ffff00">19 </font><br>
+<font color="#ffff00">20 </font><font color="#00ff00">int</font>&nbsp;com(<font color="#00ff00">void</font>* a,<font color="#00ff00">void</font>* b)<br>
+<font color="#ffff00">21 </font>{<br>
+<font color="#ffff00">22 </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;edge* aa=(edge*)a;<br>
+<font color="#ffff00">23 </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;edge* bb=(edge*)b;<br>
+<font color="#ffff00">24 </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#ffff00">return</font>&nbsp;aa-&gt;w&lt;bb-&gt;w;<br>
+<font color="#ffff00">25 </font>}<br>
+<font color="#ffff00">26 </font><font color="#00ff00">int</font>&nbsp;init()<br>
+<font color="#ffff00">27 </font>{<br>
+<font color="#ffff00">28 </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#00ff00">int</font>&nbsp;i=<font color="#ff6060">0</font>;<br>
+<font color="#ffff00">29 </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#ffff00">while</font>(i&lt;E)<br>
+<font color="#ffff00">30 </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{<br>
+<font color="#ffff00">31 </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;scanf(<font color="#ff6060">&quot;</font><font color="#ff40ff">%d%d%d%d</font><font color="#ff6060">&quot;</font>,&amp;e[i].from,&amp;e[i].to,&amp;e[i].len,&amp;e[i].w);<br>
+<font color="#ffff00">32 </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i++;<br>
+<font color="#ffff00">33 </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}<br>
+<font color="#ffff00">34 </font><br>
+<font color="#ffff00">35 </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#ffff00">for</font>(i=<font color="#ff6060">0</font>;i&lt;N;i++)<br>
+<font color="#ffff00">36 </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{<br>
+<font color="#ffff00">37 </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nodeset[i]=i;<br>
+<font color="#ffff00">38 </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}<br>
+<font color="#ffff00">39 </font><br>
+<font color="#ffff00">40 </font>}<br>
+<font color="#ffff00">41 </font><font color="#00ff00">int</font>&nbsp;kruskal()<br>
+<font color="#ffff00">42 </font>{<br>
+<font color="#ffff00">43 </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#00ff00">int</font>&nbsp;j=<font color="#ff6060">0</font>;<br>
+<font color="#ffff00">44 </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#00ff00">int</font>&nbsp;tem;<br>
+<font color="#ffff00">45 </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#00ff00">int</font>&nbsp;sum=<font color="#ff6060">0</font>;<br>
+<font color="#ffff00">46 </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#00ff00">int</font>&nbsp;len=<font color="#ff6060">0</font>;<br>
+<font color="#ffff00">47 </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#ffff00">for</font>(j=<font color="#ff6060">0</font>;j&lt;E;j++)<br>
+<font color="#ffff00">48 </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{<br>
+<font color="#ffff00">49 </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#ffff00">if</font>(nodeset[e[j].from]!=nodeset[e[j].to])<br>
+<font color="#ffff00">50 </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{<br>
+<font color="#ffff00">51 </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+<font color="#ffff00">52 </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sum+=e[j].w;<br>
+<font color="#ffff00">53 </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;len+=<font color="#ff6060">1</font>;<br>
+<font color="#ffff00">54 </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tem=e[j].from;<br>
+<font color="#ffff00">55 </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nodeset[e[j].from]=nodeset[e[j].to];<br>
+<font color="#ffff00">56 </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#ffff00">for</font>(<font color="#00ff00">int</font>&nbsp;k=<font color="#ff6060">0</font>;k&lt;N;k++)<br>
+<font color="#ffff00">57 </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#ffff00">if</font>(nodeset[k]==tem)<br>
+<font color="#ffff00">58 </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nodeset[k]=nodeset[tem];<br>
+<font color="#ffff00">59 </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#ffff00">if</font>(len&gt;=N-<font color="#ff6060">1</font>)<br>
+<font color="#ffff00">60 </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#ffff00">break</font>;<br>
+<font color="#ffff00">61 </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}<br>
+<font color="#ffff00">62 </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}<br>
+<font color="#ffff00">63 </font><br>
+<font color="#ffff00">64 </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#ffff00">if</font>(len&gt;=N-<font color="#ff6060">1</font>)<br>
+<font color="#ffff00">65 </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#ffff00">return</font>&nbsp;sum ;<br>
+<font color="#ffff00">66 </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#ffff00">else</font><br>
+<font color="#ffff00">67 </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#ffff00">return</font>&nbsp;<font color="#ff6060">0</font>;<br>
+<font color="#ffff00">68 </font>}<br>
+<font color="#ffff00">69 </font><br>
+<font color="#ffff00">70 </font><font color="#00ff00">int</font>&nbsp;main()<br>
+<font color="#ffff00">71 </font>{<br>
+<font color="#ffff00">72 </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;freopen(<font color="#ff6060">&quot;in.txt&quot;</font>,<font color="#ff6060">&quot;r&quot;</font>,<font color="#ff6060">stdin</font>);<br>
+<font color="#ffff00">73 </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#00ff00">int</font>&nbsp;res;<br>
+<font color="#ffff00">74 </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#ffff00">while</font>(scanf(<font color="#ff6060">&quot;</font><font color="#ff40ff">%d%d</font><font color="#ff6060">&quot;</font>,&amp;N,&amp;E)!=<font color="#ff6060">EOF</font>)<br>
+<font color="#ffff00">75 </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{<br>
+<font color="#ffff00">76 </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;init();<br>
+<font color="#ffff00">77 </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;res=kruskal();<br>
+<font color="#ffff00">78 </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#ffff00">if</font>(res&gt;<font color="#ff6060">0</font>)<br>
+<font color="#ffff00">79 </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;printf(<font color="#ff6060">&quot;</font><font color="#ff40ff">%d</font><font color="#ff6060">&nbsp;</font><font color="#ff40ff">%d</font><font color="#ff6060">&quot;</font>,N-<font color="#ff6060">1</font>,res);<br>
+<font color="#ffff00">80 </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#ffff00">else</font><br>
+<font color="#ffff00">81 </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;printf(<font color="#ff6060">&quot;no exit&quot;</font>);<br>
+<font color="#ffff00">82 </font><br>
+<font color="#ffff00">83 </font><br>
+<font color="#ffff00">84 </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}<br>
+<font color="#ffff00">85 </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#ffff00">return</font>&nbsp;<font color="#ff6060">0</font>;<br>
+<font color="#ffff00">86 </font>}<br>
+<font color="#ffff00">87 </font><br>
+</font></body>
+</html>
