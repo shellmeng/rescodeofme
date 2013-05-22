@@ -4,7 +4,7 @@
 #include<cstdlib>
 #include<cmath>
 
-#define NUM 5
+#define NUM 2  //维度
 
 #define LAYER 2
 int pnum[LAYER]={0};
@@ -22,7 +22,7 @@ typedef struct TrainPoint
 int makeTrainPoint(vector<TrainPoint> & tp)
 {
 	ifstream in;
-	in.open("train.txt");
+	in.open("t.txt");
 	if(!in)
 	{
 		cout<<"open file train error, the train data are in this file,exit"<<endl;
@@ -33,48 +33,26 @@ int makeTrainPoint(vector<TrainPoint> & tp)
 	int ele;
 	double tmp;
 
-	vector<double> z;
-	vector<double> o;
-	
 	tem.x.push_back(vector<double > (0));
 	while(!in.eof())
 	{
-		/*tem.x.clear();
+		tem.x[0].clear();
 		for(int i=0;i<NUM;i++)
 		{
 			in>>ele;
-			tem.x.push_back(ele);
+			tem.x[0].push_back(ele);
 		}
-		tem.x.push_back(-1);
+		tem.x[0].push_back(-1);
 		in>>tem.res;
 		tp.push_back(tem);
-		*/
-		in>>tmp;
-		z.push_back(tmp);
-		in>>tmp;
-		o.push_back(tmp);
 	}
 
 
-	//tp.erase(tp.end()-1);
-	o.erase(o.end()-1);
-	z.erase(z.end()-1);
+	tp.erase(tp.end()-1);
 	cout<<"aaa"<<endl;
+	cout<<tp.size();
 
 
-	for(int i=3;i<o.size();i++)
-	{
-		tem.x[0].clear();
-		tem.x[0].push_back(z[i-1]);
-		tem.x[0].push_back(z[i-2]);
-		tem.x[0].push_back(z[i-3]);
-		tem.x[0].push_back(o[i-1]);
-		tem.x[0].push_back(o[i-2]);
-		tem.x[0].push_back(-1);
-		tem.res=o[i];
-
-		tp.push_back(tem);
-	}
 	in.close();
 }
 int printV3(vector< vector< vector<double> > >& weight)
@@ -91,13 +69,25 @@ int printV3(vector< vector< vector<double> > >& weight)
 	}
 	cout<<endl;
 }
+int printV2( vector< vector<TrainPoint> >  weight)
+{
+
+	for(int i=0;i<weight.size();i++)
+	{
+		for(int j=0;j<weight[i].size();j++)
+		{
+			cout<<weight[i][j].res<<"\t";
+		}
+		cout<<endl;
+	}
+	cout<<endl;
+}
 //int adaptWeight(vector<TrainPoint> &tp, vector< vector< vector<double> > >& weight)
-vector<vector< vector< double> > >  adaptWeight(vector<TrainPoint> &tp, vector< vector< vector<double> > >& weight)
+vector<vector< vector< double> > >  adaptWeight(vector<TrainPoint> &tp, vector< vector< vector<double> > >& weight, vector< vector<double> > & gama, double lamada)
 {
 	double predict;
-	double lamada=0.4;
 	TrainPoint temtp;
-	vector<vector< double> > gama;
+//	vector<vector< double> > gama;
 
 	vector<TrainPoint> newtp;
 
@@ -112,8 +102,6 @@ vector<vector< vector< double> > >  adaptWeight(vector<TrainPoint> &tp, vector< 
 		for(int k=0;k<LAYER;k++)
 		{
 
-			tp[o].x.push_back(vector<double > (0));
-			gama.push_back(vector<double> (0));
 			flag=0;
 		
 			for(int l=0;l<weight[k].size();l++)
@@ -127,7 +115,6 @@ vector<vector< vector< double> > >  adaptWeight(vector<TrainPoint> &tp, vector< 
 					predict +=tp[o].x[k][h]*weight[k][l][h];
 				}
 
-				cout<<"predict= "<<predict<<endl;
 				//cout<<"over"<<endl;
 
 		/*		if(predict>=0)
@@ -135,16 +122,16 @@ vector<vector< vector< double> > >  adaptWeight(vector<TrainPoint> &tp, vector< 
 				else
 					predict=0;*/
 				predict=1/(1+exp(-predict));
-			//	predict=1/(1+exp(-predict));
+				//predict=1/(1+exp(-predict));
 
 				//cout<<"predict="<<predict<<endl;
-				tp[o].x[k+1].push_back(predict);
-				//gama[k+1].push_back(0);
-				gama[k].push_back(0);
+				tp[o].x[k+1][l]=predict;
+			//gama[k+1].push_back(0);
+				gama[k][l]=0;
 				//cout<<"push"<<endl;
 			}
 
-			tp[o].x[k+1].push_back(-1);
+		//	tp[o].x[k+1].push_back(-1);
 		}
 			
 		double out=0;
@@ -177,15 +164,16 @@ vector<vector< vector< double> > >  adaptWeight(vector<TrainPoint> &tp, vector< 
 			}
 //update the w
 			double dew=0;
-			for(int l=0;l<weight[k].size();l++)
+			for(int l=0;l<weight[k].size();l++)  //对于当前层的每个节点
 			{
-				for(int n=0;n<weight[k][l].size();n++)
+				for(int n=0;n<weight[k][l].size();n++) //每个节点多个输入
 				{
 					
-					dew=lamada*gama[k][l]*tp[o].x[k][n];
+					dew=lamada*gama[k][l]*tp[o].x[k][n]; //当前节点能影响到的输出
 			//		cout<<"dew= "<<dew<<endl;
 					weight[k][l][n]+=dew;
 				}
+				//gama[k][l]+=lamada*gama[k][l];
 			}
 		}
 	}
@@ -204,7 +192,7 @@ int test(vector<TrainPoint> tp, vector< vector< vector<double> > >& weight)
 	cout<<"the predict result"<<endl;
 
 	int flag=1;
-//	for(lamada=1;lamada>0;lamada-=0.1) //add flag,
+//	for(lamada=1;lamada>0;l/amada-=0.1) //add flag,
 	for(int o=0;o<tp.size();o++)
 	{
 		//cout<<"tpsize()"<<tp.size()<<endl;
@@ -237,7 +225,7 @@ int test(vector<TrainPoint> tp, vector< vector< vector<double> > >& weight)
 					predict =1;
 				else
 					predict =0;*/
-				predict=1/(1+exp(-predict));
+//				predict=1/(1+exp(-predict));
 
 				if(k==0 && l==0)  //输出预测值
 					cout<<predict<<endl;
@@ -249,6 +237,7 @@ int test(vector<TrainPoint> tp, vector< vector< vector<double> > >& weight)
 int main()
 {
 	vector<TrainPoint> tp;
+	vector<TrainPoint> tpnew;
 
 /*	TrainPoint tem;
 	int ele;
@@ -285,26 +274,49 @@ int main()
 
 	//pnum[0]=tp.size(); //input
 	pnum[0]=0;
-	pnum[1]=5; //Hiden
+	pnum[1]=2; //Hiden
 	pnum[2]=1; //output
-	int max=5;
+	int max=2;
 	int layNum=LAYER;
-	vector< vector< vector<double> > > weight(layNum,vector< vector< double> > (max, vector<double> (tp[0].x[0].size())));
+
+	int v3=tp[0].x[0].size();
+	cout<<v3<<endl;
+	vector< vector< vector<double> > > weight(layNum,vector< vector< double> > (max, vector<double> (v3)));
 	//define the layer num of the network
 	//the first layer is the train data
 	//the last layer is the final output, 1
 	//the middle are to be set 
 
 
+	//malloc space for the hiden node in tp
+	
+	vector< vector<double> > gama;
+	
+	for(int o=0;o<tp.size();o++)
+	{
+		for(int k=1;k<LAYER;k++)
+		{
+			//tp[o].x.push_back(vector<double> (pnum[k]+1));
+			//gama.push_back(vector<double> (pnum[k]));
+			//tp[o].x[k][tp[o].x[k].size()-1]=-1;
+			tp[o].x.push_back(vector<double> (pnum[k]));
+			gama.push_back(vector<double> (pnum[k]));
+		}
+		
+		tp[o].x.push_back(vector<double> (pnum[LAYER]));
+		gama.push_back(vector<double> (pnum[LAYER]));
+		
+	}
 	int cur=0;
-	for(int i=0;i<layNum;i++)
+	for(int i=0;i<LAYER;i++)
 	{
 		//cout<<"i="<<i<<endl;
-		for(int j=0;j<pnum[i+1];j++)
+		for(int j=0;j<pnum[i+1];j++)  //每层中的多个节点：
 		{
 
 		//	cout<<"j="<<j<<endl;
-			for(int z=0;z<tp[0].x[0].size();z++)
+			//for(int z=0;z<weight[i][j].size();z++)
+			for(int z=0;z<tp[0].x[j].size();z++)
 			{
 				//cout<<"z="<<z<<endl;
 				ran=rand()%50*1.0/10 ;
@@ -313,7 +325,7 @@ int main()
 				cur=z;
 			}
 			cur++;
-			for(;cur<tp[0].x[0].size();cur++)
+			for(;cur<tp[0].x[j].size();cur++)
 			{
 				weight[i][j].erase(weight[i][j].end()-1);
 	//			cout<<"erase weight[i][j][last]"<<endl;
@@ -345,7 +357,17 @@ int main()
 		cout<<endl;
 	}
 	cout<<"display the wegith ************************"<<endl;
-	weight=adaptWeight(tp, weight);
+	//tpnew=tp;
+	for(int i=0;i<100;i++)
+	{
+	for(double  lamada=1;lamada>0;lamada-=0.1)
+
+	{
+		weight=adaptWeight(tp, weight,gama,lamada);
+
+		printV3(weight);
+	}
+	}
 
 	cout<<"the weight are as fellows:"<<endl;
 	printV3(weight);

@@ -11,8 +11,8 @@ using namespace std;
 typedef struct TrainPoint
 {
 
-	vector<int> x;
-	int res;
+	vector<double> x;
+	double res;
 };
 
 int adaptWeight(vector<TrainPoint> & tp, vector<double>& weight)
@@ -65,10 +65,8 @@ int test(vector<TrainPoint> & tp, vector<double>& weight)
 	
 	
 }
-int main()
+int makeTrainPoint(vector<TrainPoint> & tp)
 {
-	cout<<"usage: put the train data in train.txt file"<<endl;
-	vector<TrainPoint> tp;
 	ifstream in;
 	in.open("train.txt");
 	if(!in)
@@ -79,9 +77,14 @@ int main()
 
 	TrainPoint tem;
 	int ele;
+	double tmp;
+
+	vector<double> z;
+	vector<double> o;
+	
 	while(!in.eof())
 	{
-		tem.x.clear();
+		/*tem.x.clear();
 		for(int i=0;i<NUM;i++)
 		{
 			in>>ele;
@@ -90,10 +93,42 @@ int main()
 		tem.x.push_back(-1);
 		in>>tem.res;
 		tp.push_back(tem);
+		*/
+		in>>tmp;
+		z.push_back(tmp);
+		in>>tmp;
+		o.push_back(tmp);
 	}
 
 
-	tp.erase(tp.end()-1);
+	//tp.erase(tp.end()-1);
+	o.erase(o.end()-1);
+	z.erase(z.end()-1);
+	cout<<"aaa"<<endl;
+
+
+	for(int i=3;i<o.size();i++)
+	{
+		tem.x.clear();
+		tem.x.push_back(z[i-1]);
+		tem.x.push_back(z[i-2]);
+		tem.x.push_back(z[i-3]);
+		tem.x.push_back(o[i-1]);
+		tem.x.push_back(o[i-2]);
+		tem.x.push_back(-1);
+		tem.res=o[i];
+
+		tp.push_back(tem);
+	}
+	in.close();
+}
+
+int main()
+{
+	cout<<"usage: put the train data in train.txt file"<<endl;
+	vector<TrainPoint> tp;
+	
+	makeTrainPoint(tp);
 	vector<double> weight;
 	double ran=0;
 	srand(time(NULL));
@@ -113,5 +148,5 @@ int main()
 	cout<<endl;
 
 	cout<<"the test result is "<<endl;
-	test(tp,weight);
+//	test(tp,weight);
 }
