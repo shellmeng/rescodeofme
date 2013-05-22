@@ -1,3589 +1,528 @@
 aaa
-erase weight[i][last]
-erase weight[i][last]
-erase weight[i][last]
+5
 erase weight[i][last]
 display the wegith ************************
-1	3.1	4.6	2.2	4.2	2.2	
-0	3.9	1.9	4.5	3.3	3.4	
-3	3.9	3.4	4.1	0.6	4.2	
-2.2	2.2	0.3	4.4	4.6	3.6	
-3.7	4.5	4.5	1.1	2.2	2.8	
+0.5	1.1	1.7	1.5	1	
+2.2	4.9	0	0	0	
 
-2.1	3.4	1	1.7	0.6	0.4	
+1.8	3.9	1.1	3.3	1.2	
 
 display the wegith ************************
-predict= -2.24591
-predict= -3.45469
-predict= -4.23474
-predict= -3.66258
-predict= -2.82583
-predict= -29.019
-predict= 9.41396e+08
-predict= 3.05697e+09
-predict= 5.39711e+09
-predict= 3.59606e+09
-predict= 1.75642e+09
-predict= 4.06906e+14
-predict= -3.40853e+113
-predict= -1.16714e+115
-predict= -6.42292e+115
-predict= -1.89989e+115
-predict= -2.21377e+114
-predict= -9.19355e+168
-predict= inf
-predict= inf
-predict= inf
-predict= inf
-predict= inf
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
-predict= -nan
 the weight are as fellows:
--nan	-nan	-nan	-nan	-nan	-nan	
--nan	-nan	-nan	-nan	-nan	-nan	
--nan	-nan	-nan	-nan	-nan	-nan	
--nan	-nan	-nan	-nan	-nan	-nan	
--nan	-nan	-nan	-nan	-nan	-nan	
+-0.149517	0.611641	-0.635075	16.0515	-1.13506	
+-0.858462	1.33717	-0.510066	-3.47123	-3.67516	
 
--nan	-nan	-nan	-nan	-nan	-nan	
+11.0944	-12.9134	1.1	-0.0862256	-0.469744	
 
 
 the predict result
--0.000262404	-0.000262404	-0.000262404	-0.0068164	-0.0068164	-1	-nan
--0.000262404	-0.000262404	-0.000262404	-0.0068164	-0.0068164	-1	-nan
--0.000262404	-0.000262404	-0.000262404	-0.0068164	-0.0068164	-1	-nan
--0.000262404	-0.000262404	-0.000262404	-0.0068164	-0.0068164	-1	-nan
-0.00091464	-0.000262404	-0.000262404	-0.0068164	-0.0068164	-1	-nan
-0.00091464	0.00091464	-0.000262404	-0.0068164	-0.0068164	-1	-nan
-0.00091464	0.00091464	0.00091464	-0.0068164	-0.0068164	-1	-nan
-0.00091464	0.00091464	0.00091464	-0.0068164	-0.0068164	-1	-nan
-0.00091464	0.00091464	0.00091464	-0.0068164	-0.0068164	-1	-nan
--0.000262404	0.00091464	0.00091464	-0.00925781	-0.0068164	-1	-nan
-0.00091464	-0.000262404	0.00091464	-0.0312305	-0.00925781	-1	-nan
--0.000262404	0.00091464	-0.000262404	-0.0483203	-0.0312305	-1	-nan
-0.00091464	-0.000262404	0.00091464	-0.0776172	-0.0483203	-1	-nan
--0.000262404	0.00091464	-0.000262404	-0.124004	-0.0776172	-1	-nan
-0.00091464	-0.000262404	0.00091464	-0.182598	-0.124004	-1	-nan
-0.00091464	0.00091464	-0.000262404	-0.246074	-0.182598	-1	-nan
-0.00562137	0.00091464	0.00091464	-0.307109	-0.246074	-1	-nan
-0.0157699	0.00562137	0.00091464	-0.358379	-0.307109	-1	-nan
-0.0511589	0.0157699	0.00562137	-0.390117	-0.358379	-1	-nan
-0.670577	0.0511589	0.0157699	-0.41209	-0.390117	-1	-nan
-0.880008	0.670577	0.0511589	-0.431621	-0.41209	-1	-nan
-1.09459	0.880008	0.670577	-0.441387	-0.431621	-1	-nan
-1.3485	1.09459	0.880008	-0.451152	-0.441387	-1	-nan
-1.59634	1.3485	1.09459	-0.470684	-0.451152	-1	-nan
-1.78913	1.59634	1.3485	-0.502422	-0.470684	-1	-nan
-1.90993	1.78913	1.59634	-0.531719	-0.502422	-1	-nan
-1.99412	1.90993	1.78913	-0.558574	-0.531719	-1	-nan
-2.13201	1.99412	1.90993	-0.573223	-0.558574	-1	-nan
-2.17352	2.13201	1.99412	-0.58543	-0.573223	-1	-nan
-2.11745	2.17352	2.13201	-0.612285	-0.58543	-1	-nan
-2.02358	2.11745	2.17352	-0.646465	-0.612285	-1	-nan
-1.8979	2.02358	2.11745	-0.683086	-0.646465	-1	-nan
-1.75394	1.8979	2.02358	-0.719707	-0.683086	-1	-nan
-1.60755	1.75394	1.8979	-0.770977	-0.719707	-1	-nan
-1.52218	1.60755	1.75394	-0.792949	-0.770977	-1	-nan
-1.38067	1.52218	1.60755	-0.807598	-0.792949	-1	-nan
-1.23672	1.38067	1.52218	-0.805156	-0.807598	-1	-nan
-1.10614	1.23672	1.38067	-0.81248	-0.805156	-1	-nan
-0.993841	1.10614	1.23672	-0.797832	-0.81248	-1	-nan
-0.905951	0.993841	1.10614	-0.790508	-0.797832	-1	-nan
-0.863178	0.905951	0.993841	-0.790508	-0.790508	-1	-nan
-0.847265	0.863178	0.905951	-0.790508	-0.790508	-1	-nan
-0.863091	0.847265	0.863178	-0.790508	-0.790508	-1	-nan
-0.913098	0.863091	0.847265	-0.788066	-0.790508	-1	-nan
-0.986251	0.913098	0.863091	-0.785625	-0.788066	-1	-nan
-1.08997	0.986251	0.913098	-0.788066	-0.785625	-1	-nan
-1.19369	1.08997	0.986251	-0.785625	-0.788066	-1	-nan
-1.29984	1.19369	1.08997	-0.785625	-0.785625	-1	-nan
-1.40356	1.29984	1.19369	-0.775859	-0.785625	-1	-nan
-1.49633	1.40356	1.29984	-0.773418	-0.775859	-1	-nan
-1.57934	1.49633	1.40356	-0.773418	-0.773418	-1	-nan
-1.63793	1.57934	1.49633	-0.773418	-0.773418	-1	-nan
-1.68676	1.63793	1.57934	-0.780742	-0.773418	-1	-nan
-1.69535	1.68676	1.63793	-0.785625	-0.780742	-1	-nan
-1.69173	1.69535	1.68676	-0.785625	-0.785625	-1	-nan
-1.66614	1.69173	1.69535	-0.788066	-0.785625	-1	-nan
-1.61495	1.66614	1.69173	-0.785625	-0.788066	-1	-nan
-1.54298	1.61495	1.66614	-0.785625	-0.785625	-1	-nan
-1.4588	1.54298	1.61495	-0.785625	-0.785625	-1	-nan
-1.37217	1.4588	1.54298	-0.788066	-0.785625	-1	-nan
-1.29404	1.37217	1.4588	-0.788066	-0.788066	-1	-nan
-1.21963	1.29404	1.37217	-0.788066	-0.788066	-1	-nan
-1.15371	1.21963	1.29404	-0.785625	-0.788066	-1	-nan
-1.0914	1.15371	1.21963	-0.778301	-0.785625	-1	-nan
-1.05478	1.0914	1.15371	-0.773418	-0.778301	-1	-nan
-1.02549	1.05478	1.0914	-0.773418	-0.773418	-1	-nan
-1.01934	1.02549	1.05478	-0.761211	-0.773418	-1	-nan
-1.02052	1.01934	1.02549	-0.729473	-0.761211	-1	-nan
-1.0425	1.02052	1.01934	-0.722148	-0.729473	-1	-nan
-1.07784	1.0425	1.02052	-0.709941	-0.722148	-1	-nan
-1.13029	1.07784	1.0425	-0.692852	-0.709941	-1	-nan
-1.17786	1.13029	1.07784	-0.675762	-0.692852	-1	-nan
-1.2389	1.17786	1.13029	-0.663555	-0.675762	-1	-nan
-1.29378	1.2389	1.17786	-0.670879	-0.663555	-1	-nan
-1.34505	1.29378	1.2389	-0.683086	-0.670879	-1	-nan
-1.39143	1.34505	1.29378	-0.685527	-0.683086	-1	-nan
-1.42074	1.39143	1.34505	-0.685527	-0.685527	-1	-nan
-1.44026	1.42074	1.39143	-0.683086	-0.685527	-1	-nan
-1.44642	1.44026	1.42074	-0.687969	-0.683086	-1	-nan
-1.43547	1.44642	1.44026	-0.687969	-0.687969	-1	-nan
-1.41838	1.43547	1.44642	-0.692852	-0.687969	-1	-nan
-1.3879	1.41838	1.43547	-0.700176	-0.692852	-1	-nan
-1.35255	1.3879	1.41838	-0.702617	-0.700176	-1	-nan
-1.29884	1.35255	1.3879	-0.705059	-0.702617	-1	-nan
-1.25128	1.29884	1.35255	-0.705059	-0.705059	-1	-nan
-1.18662	1.25128	1.29884	-0.709941	-0.705059	-1	-nan
-1.15	1.18662	1.25128	-0.714824	-0.709941	-1	-nan
-1.11094	1.15	1.18662	-0.717266	-0.714824	-1	-nan
-1.08164	1.11094	1.15	-0.717266	-0.717266	-1	-nan
-1.05596	1.08164	1.11094	-0.717266	-0.717266	-1	-nan
-1.04864	1.05596	1.08164	-0.719707	-0.717266	-1	-nan
-1.04132	1.04864	1.05596	-0.722148	-0.719707	-1	-nan
-1.04738	1.04132	1.04864	-0.722148	-0.722148	-1	-nan
-1.06808	1.04738	1.04132	-0.722148	-0.722148	-1	-nan
-1.09493	1.06808	1.04738	-0.722148	-0.722148	-1	-nan
-1.12785	1.09493	1.06808	-0.722148	-0.722148	-1	-nan
-1.16936	1.12785	1.09493	-0.714824	-0.722148	-1	-nan
-1.20354	1.16936	1.12785	-0.705059	-0.714824	-1	-nan
-1.2426	1.20354	1.16936	-0.705059	-0.705059	-1	-nan
-1.27434	1.2426	1.20354	-0.705059	-0.705059	-1	-nan
-1.30852	1.27434	1.2426	-0.697734	-0.705059	-1	-nan
-1.31584	1.30852	1.27434	-0.692852	-0.697734	-1	-nan
-1.33293	1.31584	1.30852	-0.687969	-0.692852	-1	-nan
-1.32687	1.33293	1.31584	-0.675762	-0.687969	-1	-nan
-1.33175	1.32687	1.33293	-0.668437	-0.675762	-1	-nan
-1.30861	1.33175	1.32687	-0.65623	-0.668437	-1	-nan
-1.29396	1.30861	1.33175	-0.631816	-0.65623	-1	-nan
-1.25978	1.29396	1.30861	-0.597637	-0.631816	-1	-nan
-1.23419	1.25978	1.29396	-0.575664	-0.597637	-1	-nan
-1.19394	1.23419	1.25978	-0.553691	-0.575664	-1	-nan
-1.16953	1.19394	1.23419	-0.519512	-0.553691	-1	-nan
-1.14023	1.16953	1.19394	-0.470684	-0.519512	-1	-nan
-1.13291	1.14023	1.16953	-0.426738	-0.470684	-1	-nan
-1.08896	1.13291	1.14023	-0.37791	-0.426738	-1	-nan
-0.943748	1.08896	1.13291	-0.338848	-0.37791	-1	-nan
-0.602034	0.943748	1.08896	-0.304668	-0.338848	-1	-nan
-0.500681	0.602034	0.943748	-0.275371	-0.304668	-1	-nan
-0.292157	0.500681	0.602034	-0.23875	-0.275371	-1	-nan
-0.105959	0.292157	0.500681	-0.216777	-0.23875	-1	-nan
--0.0692052	0.105959	0.292157	-0.207012	-0.216777	-1	-nan
--0.25061	-0.0692052	0.105959	-0.20457	-0.207012	-1	-nan
--0.3895	-0.25061	-0.0692052	-0.202129	-0.20457	-1	-nan
--0.435976	-0.3895	-0.25061	-0.180156	-0.202129	-1	-nan
--0.444743	-0.435976	-0.3895	-0.172832	-0.180156	-1	-nan
--0.418152	-0.444743	-0.435976	-0.172832	-0.172832	-1	-nan
--0.386672	-0.418152	-0.444743	-0.172832	-0.172832	-1	-nan
--0.291721	-0.386672	-0.418152	-0.175273	-0.172832	-1	-nan
--0.163864	-0.291721	-0.386672	-0.175273	-0.175273	-1	-nan
--0.0176435	-0.163864	-0.291721	-0.172832	-0.175273	-1	-nan
-0.13717	-0.0176435	-0.163864	-0.172832	-0.172832	-1	-nan
-0.291984	0.13717	-0.0176435	-0.172832	-0.172832	-1	-nan
-0.432235	0.291984	0.13717	-0.172832	-0.172832	-1	-nan
-0.567595	0.432235	0.291984	-0.172832	-0.172832	-1	-nan
-0.670048	0.567595	0.432235	-0.172832	-0.172832	-1	-nan
-0.753058	0.670048	0.567595	-0.172832	-0.172832	-1	-nan
-0.800615	0.753058	0.670048	-0.175273	-0.172832	-1	-nan
-0.818968	0.800615	0.753058	-0.175273	-0.175273	-1	-nan
-0.799525	0.818968	0.800615	-0.175273	-0.175273	-1	-nan
-0.760638	0.799525	0.818968	-0.175273	-0.175273	-1	-nan
-0.674194	0.760638	0.799525	-0.175273	-0.175273	-1	-nan
-0.59018	0.674194	0.760638	-0.175273	-0.175273	-1	-nan
-0.48547	0.59018	0.674194	-0.175273	-0.175273	-1	-nan
-0.383189	0.48547	0.59018	-0.175273	-0.175273	-1	-nan
-0.280832	0.383189	0.48547	-0.175273	-0.175273	-1	-nan
-0.196732	0.280832	0.383189	-0.175273	-0.175273	-1	-nan
-0.118698	0.196732	0.280832	-0.175273	-0.175273	-1	-nan
-0.0674284	0.118698	0.196732	-0.175273	-0.175273	-1	-nan
-0.0308084	0.0674284	0.118698	-0.175273	-0.175273	-1	-nan
-0.0185116	0.0308084	0.0674284	-0.175273	-0.175273	-1	-nan
-0.0171522	0.0185116	0.0308084	-0.175273	-0.175273	-1	-nan
-0.0402224	0.0171522	0.0185116	-0.175273	-0.175273	-1	-nan
-0.0730425	0.0402224	0.0171522	-0.175273	-0.175273	-1	-nan
-0.125403	0.0730425	0.0402224	-0.175273	-0.175273	-1	-nan
-0.182643	0.125403	0.0730425	-0.175273	-0.175273	-1	-nan
-0.252094	0.182643	0.125403	-0.175273	-0.175273	-1	-nan
-0.315477	0.252094	0.182643	-0.170391	-0.175273	-1	-nan
-0.37887	0.315477	0.252094	-0.170391	-0.170391	-1	-nan
-0.427614	0.37887	0.315477	-0.170391	-0.170391	-1	-nan
-0.464234	0.427614	0.37887	-0.170391	-0.170391	-1	-nan
-0.488644	0.464234	0.427614	-0.170391	-0.170391	-1	-nan
-0.505734	0.488644	0.464234	-0.170391	-0.170391	-1	-nan
-0.497237	0.505734	0.488644	-0.170391	-0.170391	-1	-nan
-0.489994	0.497237	0.505734	-0.167949	-0.170391	-1	-nan
-0.46567	0.489994	0.497237	-0.160625	-0.167949	-1	-nan
-0.442524	0.46567	0.489994	-0.155742	-0.160625	-1	-nan
-0.392603	0.442524	0.46567	-0.153301	-0.155742	-1	-nan
-0.34631	0.392603	0.442524	-0.148418	-0.153301	-1	-nan
-0.286619	0.34631	0.392603	-0.141094	-0.148418	-1	-nan
-0.230556	0.286619	0.34631	-0.128887	-0.141094	-1	-nan
-0.176932	0.230556	0.286619	-0.121562	-0.128887	-1	-nan
-0.129375	0.176932	0.230556	-0.114238	-0.121562	-1	-nan
-0.0598388	0.129375	0.176932	-0.114238	-0.114238	-1	-nan
-0.0293622	0.0598388	0.129375	-0.114238	-0.114238	-1	-nan
--0.0109612	0.0293622	0.0598388	-0.114238	-0.114238	-1	-nan
--0.0146747	-0.0109612	0.0293622	-0.114238	-0.114238	-1	-nan
--0.0159376	-0.0146747	-0.0109612	-0.114238	-0.114238	-1	-nan
--0.00507745	-0.0159376	-0.0146747	-0.114238	-0.114238	-1	-nan
-0.0216862	-0.00507745	-0.0159376	-0.109355	-0.114238	-1	-nan
-0.0630129	0.0216862	-0.00507745	-0.104473	-0.109355	-1	-nan
-0.109316	0.0630129	0.0216862	-0.104473	-0.104473	-1	-nan
-0.156787	0.109316	0.0630129	-0.104473	-0.104473	-1	-nan
-0.20309	0.156787	0.109316	-0.104473	-0.104473	-1	-nan
-0.254274	0.20309	0.156787	-0.104473	-0.104473	-1	-nan
-0.292071	0.254274	0.20309	-0.0971484	-0.104473	-1	-nan
-0.328604	0.292071	0.254274	-0.094707	-0.0971484	-1	-nan
-0.345694	0.328604	0.292071	-0.094707	-0.094707	-1	-nan
-0.345694	0.345694	0.328604	-0.094707	-0.094707	-1	-nan
-0.337187	0.345694	0.345694	-0.094707	-0.094707	-1	-nan
-0.327427	0.337187	0.345694	-0.0922656	-0.094707	-1	-nan
-0.299391	0.327427	0.337187	-0.0849414	-0.0922656	-1	-nan
-0.272627	0.299391	0.327427	-0.0873828	-0.0849414	-1	-nan
-0.231214	0.272627	0.299391	-0.0873828	-0.0873828	-1	-nan
-0.17514	0.231214	0.272627	-0.0873828	-0.0873828	-1	-nan
-0.150816	0.17514	0.231214	-0.0873828	-0.0873828	-1	-nan
-0.11546	0.150816	0.17514	-0.0873828	-0.0873828	-1	-nan
-0.0837199	0.11546	0.150816	-0.0873828	-0.0873828	-1	-nan
-0.0679029	0.0837199	0.11546	-0.0800586	-0.0873828	-1	-nan
-0.0519899	0.0679029	0.0837199	-0.0629687	-0.0800586	-1	-nan
-0.0495399	0.0519899	0.0679029	-0.0385547	-0.0629687	-1	-nan
-0.0336265	0.0495399	0.0519899	-0.0116992	-0.0385547	-1	-nan
-0.00341911	0.0336265	0.0495399	-0.004375	-0.0116992	-1	-nan
--0.0823765	0.00341911	0.0336265	-0.00925781	-0.004375	-1	-nan
--0.112594	-0.0823765	0.00341911	-0.00925781	-0.00925781	-1	-nan
--0.116124	-0.112594	-0.0823765	-0.0068164	-0.00925781	-1	-nan
--0.113771	-0.116124	-0.112594	-0.0068164	-0.0068164	-1	-nan
--0.152658	-0.113771	-0.116124	-0.0068164	-0.0068164	-1	-nan
--0.131855	-0.152658	-0.113771	-0.0068164	-0.0068164	-1	-nan
--0.140448	-0.131855	-0.152658	-0.0068164	-0.0068164	-1	-nan
--0.117205	-0.140448	-0.131855	-0.0068164	-0.0068164	-1	-nan
--0.0782311	-0.117205	-0.140448	-0.0068164	-0.0068164	-1	-nan
--0.0271438	-0.0782311	-0.117205	-0.0068164	-0.0068164	-1	-nan
-0.0178963	-0.0271438	-0.0782311	-0.0068164	-0.0068164	-1	-nan
-0.0714335	0.0178963	-0.0271438	-0.004375	-0.0068164	-1	-nan
-0.101814	0.0714335	0.0178963	-0.0068164	-0.004375	-1	-nan
-0.135907	0.101814	0.0714335	0.000507817	-0.0068164	-1	-nan
-0.149197	0.135907	0.101814	0.00783204	0.000507817	-1	-nan
-0.154001	0.149197	0.135907	0.0175977	0.00783204	-1	-nan
-0.151551	0.154001	0.149197	0.0298047	0.0175977	-1	-nan
-0.145408	0.151551	0.154001	0.0542188	0.0298047	-1	-nan
-0.125878	0.145408	0.151551	0.0908398	0.0542188	-1	-nan
-0.0954011	0.125878	0.145408	0.134785	0.0908398	-1	-nan
-0.0222475	0.0954011	0.125878	0.19582	0.134785	-1	-nan
--0.207156	0.0222475	0.0954011	0.259297	0.19582	-1	-nan
--0.547164	-0.207156	0.0222475	0.325215	0.259297	-1	-nan
--0.792988	-0.547164	-0.207156	0.388691	0.325215	-1	-nan
--1.1371	-0.792988	-0.547164	0.459492	0.388691	-1	-nan
--1.57241	-1.1371	-0.792988	0.520527	0.459492	-1	-nan
--1.91636	-1.57241	-1.1371	0.579121	0.520527	-1	-nan
--2.23578	-1.91636	-1.57241	0.640156	0.579121	-1	-nan
--2.82009	-2.23578	-1.91636	0.701191	0.640156	-1	-nan
--3.17676	-2.82009	-2.23578	0.745137	0.701191	-1	-nan
--3.37849	-3.17676	-2.82009	0.784199	0.745137	-1	-nan
--3.54584	-3.37849	-3.17676	0.82082	0.784199	-1	-nan
--3.67579	-3.54584	-3.37849	0.857441	0.82082	-1	-nan
--3.75532	-3.67579	-3.54584	0.898945	0.857441	-1	-nan
--3.78812	-3.75532	-3.67579	0.930684	0.898945	-1	-nan
--3.71541	-3.78812	-3.75532	0.962422	0.930684	-1	-nan
--3.64619	-3.71541	-3.78812	0.991719	0.962422	-1	-nan
--3.47698	-3.64619	-3.71541	1.02346	0.991719	-1	-nan
--3.26588	-3.47698	-3.64619	1.04299	1.02346	-1	-nan
--3.13041	-3.26588	-3.47698	1.06496	1.04299	-1	-nan
--2.92302	-3.13041	-3.26588	1.10891	1.06496	-1	-nan
--2.84609	-2.92302	-3.13041	1.14797	1.10891	-1	-nan
--2.7324	-2.84609	-2.92302	1.16994	1.14797	-1	-nan
--2.67521	-2.7324	-2.84609	1.1968	1.16994	-1	-nan
--2.66288	-2.67521	-2.7324	1.23098	1.1968	-1	-nan
--2.60578	-2.66288	-2.67521	1.24318	1.23098	-1	-nan
--2.58478	-2.60578	-2.66288	1.24318	1.24318	-1	-nan
--2.62772	-2.58478	-2.60578	1.2383	1.24318	-1	-nan
--2.6884	-2.62772	-2.58478	1.23342	1.2383	-1	-nan
--2.74956	-2.6884	-2.62772	1.22854	1.23342	-1	-nan
--2.81298	-2.74956	-2.6884	1.22854	1.22854	-1	-nan
--2.88826	-2.81298	-2.74956	1.22854	1.22854	-1	-nan
--2.96446	-2.88826	-2.81298	1.22609	1.22854	-1	-nan
--3.02229	-2.96446	-2.88826	1.21145	1.22609	-1	-nan
--3.09225	-3.02229	-2.96446	1.19924	1.21145	-1	-nan
--3.14394	-3.09225	-3.02229	1.19191	1.19924	-1	-nan
--3.18242	-3.14394	-3.09225	1.18947	1.19191	-1	-nan
--3.21131	-3.18242	-3.14394	1.18947	1.18947	-1	-nan
--3.22717	-3.21131	-3.18242	1.19191	1.18947	-1	-nan
--3.23597	-3.22717	-3.21131	1.19191	1.19191	-1	-nan
--3.23671	-3.23597	-3.22717	1.19191	1.19191	-1	-nan
--3.2132	-3.23671	-3.23597	1.18947	1.19191	-1	-nan
--3.18888	-3.2132	-3.23671	1.19191	1.18947	-1	-nan
--3.16708	-3.18888	-3.2132	1.19191	1.19191	-1	-nan
--3.14075	-3.16708	-3.18888	1.19191	1.19191	-1	-nan
--3.12646	-3.14075	-3.16708	1.19191	1.19191	-1	-nan
--3.09642	-3.12646	-3.14075	1.17482	1.19191	-1	-nan
--3.0833	-3.09642	-3.12646	1.16018	1.17482	-1	-nan
--3.07877	-3.0833	-3.09642	1.15041	1.16018	-1	-nan
--3.09712	-3.07877	-3.0833	1.12111	1.15041	-1	-nan
--3.10328	-3.09712	-3.07877	1.06008	1.12111	-1	-nan
--3.10689	-3.10328	-3.09712	0.999043	1.06008	-1	-nan
--3.10545	-3.10689	-3.10328	0.930684	0.999043	-1	-nan
--3.11387	-3.10545	-3.10689	0.840352	0.930684	-1	-nan
--3.11975	-3.11387	-3.10545	0.73293	0.840352	-1	-nan
--3.14372	-3.11975	-3.11387	0.608418	0.73293	-1	-nan
--3.16408	-3.14372	-3.11975	0.486348	0.608418	-1	-nan
--3.18064	-3.16408	-3.14372	0.371602	0.486348	-1	-nan
--3.10793	-3.18064	-3.16408	0.269063	0.371602	-1	-nan
--2.1052	-3.10793	-3.18064	0.171406	0.269063	-1	-nan
--0.798686	-2.1052	-3.10793	0.0981641	0.171406	-1	-nan
-0.185961	-0.798686	-2.1052	0.0493359	0.0981641	-1	-nan
-1.32353	0.185961	-0.798686	0.0127148	0.0493359	-1	-nan
-2.15405	1.32353	0.185961	-0.0141406	0.0127148	-1	-nan
-2.76715	2.15405	1.32353	-0.0532031	-0.0141406	-1	-nan
-3.42123	2.76715	2.15405	-0.0825	-0.0532031	-1	-nan
-3.51739	3.42123	2.76715	-0.0922656	-0.0825	-1	-nan
-3.46917	3.51739	3.42123	-0.0922656	-0.0922656	-1	-nan
-3.3989	3.46917	3.51739	-0.0922656	-0.0922656	-1	-nan
-2.68408	3.3989	3.46917	-0.0922656	-0.0922656	-1	-nan
-2.34815	2.68408	3.3989	-0.094707	-0.0922656	-1	-nan
-1.52492	2.34815	2.68408	-0.0922656	-0.094707	-1	-nan
-0.575217	1.52492	2.34815	-0.0922656	-0.0922656	-1	-nan
--0.0335767	0.575217	1.52492	-0.0873828	-0.0922656	-1	-nan
--0.654313	-0.0335767	0.575217	-0.0873828	-0.0873828	-1	-nan
--1.27128	-0.654313	-0.0335767	-0.0873828	-0.0873828	-1	-nan
--1.6654	-1.27128	-0.654313	-0.0873828	-0.0873828	-1	-nan
--1.87176	-1.6654	-1.27128	-0.0873828	-0.0873828	-1	-nan
--1.80569	-1.87176	-1.6654	-0.0873828	-0.0873828	-1	-nan
--1.57748	-1.80569	-1.87176	-0.0873828	-0.0873828	-1	-nan
--1.55448	-1.57748	-1.80569	-0.0825	-0.0873828	-1	-nan
--1.57227	-1.55448	-1.57748	-0.0727344	-0.0825	-1	-nan
--1.3631	-1.57227	-1.55448	-0.0654102	-0.0727344	-1	-nan
--0.949292	-1.3631	-1.57227	-0.0532031	-0.0654102	-1	-nan
--0.587574	-0.949292	-1.3631	-0.0263477	-0.0532031	-1	-nan
--0.406169	-0.587574	-0.949292	-0.0068164	-0.0263477	-1	-nan
-0.0524549	-0.406169	-0.587574	0.0102734	-0.0068164	-1	-nan
-0.585775	0.0524549	-0.406169	0.0420117	0.0102734	-1	-nan
-0.908218	0.585775	0.0524549	0.0664258	0.0420117	-1	-nan
-1.24342	0.908218	0.585775	0.085957	0.0664258	-1	-nan
-1.31649	1.24342	0.908218	0.103047	0.085957	-1	-nan
-1.40076	1.31649	1.24342	0.10793	0.103047	-1	-nan
-1.16268	1.40076	1.31649	0.10793	0.10793	-1	-nan
-0.652516	1.16268	1.40076	0.105488	0.10793	-1	-nan
-0.440558	0.652516	1.16268	0.0981641	0.105488	-1	-nan
-0.000104688	0.440558	0.652516	0.0932813	0.0981641	-1	-nan
--0.355816	0.000104688	0.440558	0.0883984	0.0932813	-1	-nan
--0.660112	-0.355816	0.000104688	0.0810742	0.0883984	-1	-nan
--0.83031	-0.660112	-0.355816	0.0810742	0.0810742	-1	-nan
--0.956914	-0.83031	-0.660112	0.0810742	0.0810742	-1	-nan
--1.00457	-0.956914	-0.83031	0.0810742	0.0810742	-1	-nan
--0.947673	-1.00457	-0.956914	0.0810742	0.0810742	-1	-nan
--0.800631	-0.947673	-1.00457	0.0810742	0.0810742	-1	-nan
--0.532774	-0.800631	-0.947673	0.0810742	0.0810742	-1	-nan
--0.314845	-0.532774	-0.800631	0.0786328	0.0810742	-1	-nan
--0.0233984	-0.314845	-0.532774	0.07375	0.0786328	-1	-nan
-0.417055	-0.0233984	-0.314845	0.07375	0.07375	-1	-nan
-0.736703	0.417055	-0.0233984	0.07375	0.07375	-1	-nan
-0.981933	0.736703	0.417055	0.0761914	0.07375	-1	-nan
-1.22355	0.981933	0.736703	0.0810742	0.0761914	-1	-nan
-1.31623	1.22355	0.981933	0.0835156	0.0810742	-1	-nan
-1.25754	1.31623	1.22355	0.085957	0.0835156	-1	-nan
-1.04388	1.25754	1.31623	0.085957	0.085957	-1	-nan
-0.69964	1.04388	1.25754	0.0835156	0.085957	-1	-nan
-0.40423	0.69964	1.04388	0.0810742	0.0835156	-1	-nan
--0.00339349	0.40423	0.69964	0.0810742	0.0810742	-1	-nan
--0.47929	-0.00339349	0.40423	0.0810742	0.0810742	-1	-nan
--0.782765	-0.47929	-0.00339349	0.0810742	0.0810742	-1	-nan
--1.05206	-0.782765	-0.47929	0.0761914	0.0810742	-1	-nan
--1.3322	-1.05206	-0.782765	0.0688672	0.0761914	-1	-nan
--1.48513	-1.3322	-1.05206	0.0664258	0.0688672	-1	-nan
--1.51046	-1.48513	-1.3322	0.0688672	0.0664258	-1	-nan
--1.44354	-1.51046	-1.48513	0.0664258	0.0688672	-1	-nan
--1.23781	-1.44354	-1.51046	0.061543	0.0664258	-1	-nan
--0.990673	-1.23781	-1.44354	0.0493359	0.061543	-1	-nan
--0.704289	-0.990673	-1.23781	0.0493359	0.0493359	-1	-nan
--0.315191	-0.704289	-0.990673	0.0493359	0.0493359	-1	-nan
-0.0191054	-0.315191	-0.704289	0.0493359	0.0493359	-1	-nan
-0.304573	0.0191054	-0.315191	0.0493359	0.0493359	-1	-nan
-0.681643	0.304573	0.0191054	0.0493359	0.0493359	-1	-nan
-0.941513	0.681643	0.304573	0.0517773	0.0493359	-1	-nan
-1.05618	0.941513	0.681643	0.0468945	0.0517773	-1	-nan
-1.155	1.05618	0.941513	0.0420117	0.0468945	-1	-nan
-1.18548	1.155	1.05618	0.0444531	0.0420117	-1	-nan
-1.1183	1.18548	1.155	0.0444531	0.0444531	-1	-nan
-0.9682	1.1183	1.18548	0.0444531	0.0444531	-1	-nan
-0.774154	0.9682	1.1183	0.0420117	0.0444531	-1	-nan
-0.565457	0.774154	0.9682	0.0420117	0.0420117	-1	-nan
-0.360463	0.565457	0.774154	0.0273633	0.0420117	-1	-nan
-0.129883	0.360463	0.565457	0.00294922	0.0273633	-1	-nan
--0.053044	0.129883	0.360463	-0.0312305	0.00294922	-1	-nan
--0.115175	-0.053044	0.129883	-0.0800586	-0.0312305	-1	-nan
--0.250535	-0.115175	-0.053044	-0.128887	-0.0800586	-1	-nan
--0.284542	-0.250535	-0.115175	-0.192363	-0.128887	-1	-nan
--0.303899	-0.284542	-0.250535	-0.268047	-0.192363	-1	-nan
--0.274512	-0.303899	-0.284542	-0.34373	-0.268047	-1	-nan
--0.208592	-0.274512	-0.303899	-0.414531	-0.34373	-1	-nan
--0.0830786	-0.208592	-0.274512	-0.475566	-0.414531	-1	-nan
-0.231505	-0.0830786	-0.208592	-0.539043	-0.475566	-1	-nan
-0.909956	0.231505	-0.0830786	-0.582988	-0.539043	-1	-nan
-1.40168	0.909956	0.231505	-0.626934	-0.582988	-1	-nan
-1.9435	1.40168	0.909956	-0.668437	-0.626934	-1	-nan
-2.32688	1.9435	1.40168	-0.69041	-0.668437	-1	-nan
-2.55655	2.32688	1.9435	-0.702617	-0.69041	-1	-nan
-2.64806	2.55655	2.32688	-0.717266	-0.702617	-1	-nan
-2.57844	2.64806	2.55655	-0.722148	-0.717266	-1	-nan
-2.39777	2.57844	2.64806	-0.72459	-0.722148	-1	-nan
-2.11348	2.39777	2.57844	-0.727031	-0.72459	-1	-nan
-1.82549	2.11348	2.39777	-0.736797	-0.727031	-1	-nan
-1.48377	1.82549	2.11348	-0.766094	-0.736797	-1	-nan
-1.29469	1.48377	1.82549	-0.788066	-0.766094	-1	-nan
-1.12877	1.29469	1.48377	-0.81248	-0.788066	-1	-nan
-0.927479	1.12877	1.29469	-0.839336	-0.81248	-1	-nan
-0.737231	0.927479	1.12877	-0.890605	-0.839336	-1	-nan
-0.617601	0.737231	0.927479	-0.956523	-0.890605	-1	-nan
-0.566245	0.617601	0.737231	-1.02	-0.956523	-1	-nan
-0.597899	0.566245	0.617601	-1.06639	-1.02	-1	-nan
-0.685692	0.597899	0.566245	-1.11766	-1.06639	-1	-nan
-0.845569	0.685692	0.597899	-1.15672	-1.11766	-1	-nan
-1.04197	0.845569	0.685692	-1.18602	-1.15672	-1	-nan
-1.25799	1.04197	0.845569	-1.20311	-1.18602	-1	-nan
-1.47156	1.25799	1.04197	-1.21531	-1.20311	-1	-nan
-1.69491	1.47156	1.25799	-1.22508	-1.21531	-1	-nan
-1.87675	1.69491	1.47156	-1.23729	-1.22508	-1	-nan
-2.02324	1.87675	1.69491	-1.23973	-1.23729	-1	-nan
-2.06727	2.02324	1.87675	-1.23729	-1.23973	-1	-nan
-2.05389	2.06727	2.02324	-1.23729	-1.23729	-1	-nan
-1.97096	2.05389	2.06727	-1.23729	-1.23729	-1	-nan
-1.82827	1.97096	2.05389	-1.2324	-1.23729	-1	-nan
-1.62455	1.82827	1.97096	-1.22508	-1.2324	-1	-nan
-1.39152	1.62455	1.82827	-1.22264	-1.22508	-1	-nan
-1.12432	1.39152	1.62455	-1.22264	-1.22264	-1	-nan
-0.863178	1.12432	1.39152	-1.22264	-1.22264	-1	-nan
-0.639841	0.863178	1.12432	-1.21287	-1.22264	-1	-nan
-0.460348	0.639841	0.863178	-1.21287	-1.21287	-1	-nan
-0.312605	0.460348	0.639841	-1.21043	-1.21287	-1	-nan
-0.217385	0.312605	0.460348	-1.21043	-1.21043	-1	-nan
-0.161148	0.217385	0.312605	-1.21043	-1.21043	-1	-nan
-0.183031	0.161148	0.217385	-1.21043	-1.21043	-1	-nan
-0.252482	0.183031	0.161148	-1.20799	-1.21043	-1	-nan
-0.382962	0.252482	0.183031	-1.21043	-1.20799	-1	-nan
-0.526915	0.382962	0.252482	-1.21043	-1.21043	-1	-nan
-0.706312	0.526915	0.382962	-1.21043	-1.21043	-1	-nan
-0.891776	0.706312	0.526915	-1.21043	-1.21043	-1	-nan
-1.10535	0.891776	0.706312	-1.21043	-1.21043	-1	-nan
-1.325	1.10535	0.891776	-1.20799	-1.21043	-1	-nan
-1.56298	1.325	1.10535	-1.20799	-1.20799	-1	-nan
-1.76192	1.56298	1.325	-1.20799	-1.20799	-1	-nan
-1.94014	1.76192	1.56298	-1.20799	-1.20799	-1	-nan
-2.06347	1.94014	1.76192	-1.20799	-1.20799	-1	-nan
-2.14892	2.06347	1.94014	-1.20799	-1.20799	-1	-nan
-2.16972	2.14892	2.06347	-1.20799	-1.20799	-1	-nan
-2.14295	2.16972	2.14892	-1.20799	-1.20799	-1	-nan
-2.05145	2.14295	2.16972	-1.20799	-1.20799	-1	-nan
-1.94538	2.05145	2.14295	-1.20799	-1.20799	-1	-nan
-1.8063	1.94538	2.05145	-1.20799	-1.20799	-1	-nan
-1.6855	1.8063	1.94538	-1.20799	-1.20799	-1	-nan
-1.51595	1.6855	1.8063	-1.20799	-1.20799	-1	-nan
-1.34152	1.51595	1.6855	-1.21043	-1.20799	-1	-nan
-1.15968	1.34152	1.51595	-1.20799	-1.21043	-1	-nan
-0.992491	1.15968	1.34152	-1.20799	-1.20799	-1	-nan
-0.830175	0.992491	1.15968	-1.20799	-1.20799	-1	-nan
-0.698345	0.830175	0.992491	-1.21043	-1.20799	-1	-nan
-0.587211	0.698345	0.830175	-1.21043	-1.21043	-1	-nan
-0.511531	0.587211	0.698345	-1.21043	-1.21043	-1	-nan
-0.462615	0.511531	0.587211	-1.21043	-1.21043	-1	-nan
-0.454021	0.462615	0.511531	-1.21043	-1.21043	-1	-nan
-0.480795	0.454021	0.462615	-1.20555	-1.21043	-1	-nan
-0.539299	0.480795	0.454021	-1.19822	-1.20555	-1	-nan
-0.629542	0.539299	0.480795	-1.19578	-1.19822	-1	-nan
-0.721049	0.629542	0.539299	-1.19578	-1.19578	-1	-nan
-0.821149	0.721049	0.629542	-1.19578	-1.19578	-1	-nan
-0.935812	0.821149	0.721049	-1.19334	-1.19578	-1	-nan
-1.03835	0.935812	0.821149	-1.19334	-1.19334	-1	-nan
-1.13356	1.03835	0.935812	-1.19334	-1.19334	-1	-nan
-1.22878	1.13356	1.03835	-1.19334	-1.19334	-1	-nan
-1.30934	1.22878	1.13356	-1.18602	-1.19334	-1	-nan
-1.35817	1.30934	1.22878	-1.17869	-1.18602	-1	-nan
-1.40944	1.35817	1.30934	-1.17381	-1.17869	-1	-nan
-1.43268	1.40944	1.35817	-1.16404	-1.17381	-1	-nan
-1.45103	1.43268	1.40944	-1.14207	-1.16404	-1	-nan
-1.45103	1.45103	1.43268	-1.12986	-1.14207	-1	-nan
-1.44985	1.45103	1.45103	-1.12742	-1.12986	-1	-nan
-1.43276	1.44985	1.45103	-1.12742	-1.12742	-1	-nan
-1.41939	1.43276	1.44985	-1.11521	-1.12742	-1	-nan
-1.39623	1.41939	1.43276	-1.09568	-1.11521	-1	-nan
-1.38647	1.39623	1.41939	-1.06395	-1.09568	-1	-nan
-1.37426	1.38647	1.39623	-1.04197	-1.06395	-1	-nan
-1.36576	1.37426	1.38647	-1.02	-1.04197	-1	-nan
-1.36206	1.36576	1.37426	-0.971172	-1.02	-1	-nan
-1.35843	1.36206	1.36576	-0.895488	-0.971172	-1	-nan
-1.34623	1.35843	1.36206	-0.795391	-0.895488	-1	-nan
-1.34623	1.34623	1.35843	-0.683086	-0.795391	-1	-nan
-1.33158	1.34623	1.34623	-0.561016	-0.683086	-1	-nan
-1.32553	1.33158	1.34623	-0.443828	-0.561016	-1	-nan
-1.29866	1.32553	1.33158	-0.341289	-0.443828	-1	-nan
-1.28401	1.29866	1.32553	-0.258281	-0.341289	-1	-nan
-0.845828	1.28401	1.29866	-0.189922	-0.258281	-1	-nan
-0.522737	0.845828	1.28401	-0.141094	-0.189922	-1	-nan
-0.115816	0.522737	0.845828	-0.114238	-0.141094	-1	-nan
--0.233606	0.115816	0.522737	-0.102031	-0.114238	-1	-nan
--0.626439	-0.233606	0.115816	-0.094707	-0.102031	-1	-nan
--0.875848	-0.626439	-0.233606	-0.094707	-0.094707	-1	-nan
--1.08908	-0.875848	-0.626439	-0.094707	-0.094707	-1	-nan
--1.28295	-1.08908	-0.875848	-0.0898242	-0.094707	-1	-nan
--1.35175	-1.28295	-1.08908	-0.0800586	-0.0898242	-1	-nan
--1.36104	-1.35175	-1.28295	-0.0312305	-0.0800586	-1	-nan
--1.29836	-1.36104	-1.35175	0.0298047	-0.0312305	-1	-nan
--1.20638	-1.29836	-1.36104	0.0932813	0.0298047	-1	-nan
--1.29226	-1.20638	-1.29836	0.151875	0.0932813	-1	-nan
--0.883372	-1.29226	-1.20638	0.200703	0.151875	-1	-nan
--0.756034	-0.883372	-1.29226	0.227559	0.200703	-1	-nan
--0.409969	-0.756034	-0.883372	0.237324	0.227559	-1	-nan
--0.355255	-0.409969	-0.756034	0.23	0.237324	-1	-nan
--0.550835	-0.355255	-0.409969	0.217793	0.23	-1	-nan
--0.626201	-0.550835	-0.355255	0.21291	0.217793	-1	-nan
--0.286258	-0.626201	-0.550835	0.21291	0.21291	-1	-nan
--0.241369	-0.286258	-0.626201	0.21291	0.21291	-1	-nan
--0.271791	-0.241369	-0.286258	0.21291	0.21291	-1	-nan
--0.239641	-0.271791	-0.241369	0.203145	0.21291	-1	-nan
--0.228121	-0.239641	-0.271791	0.188496	0.203145	-1	-nan
--0.211625	-0.228121	-0.239641	0.186055	0.188496	-1	-nan
--0.140945	-0.211625	-0.228121	0.186055	0.186055	-1	-nan
--0.0732423	-0.140945	-0.211625	0.183613	0.186055	-1	-nan
--0.086921	-0.0732423	-0.140945	0.171406	0.183613	-1	-nan
--0.0435324	-0.086921	-0.0732423	0.168965	0.171406	-1	-nan
-0.0127909	-0.0435324	-0.086921	0.164082	0.168965	-1	-nan
-0.0568273	0.0127909	-0.0435324	0.154316	0.164082	-1	-nan
-0.0570865	0.0568273	0.0127909	0.137227	0.154316	-1	-nan
-0.0692965	0.0570865	0.0568273	0.12502	0.137227	-1	-nan
-0.103121	0.0692965	0.0570865	0.117695	0.12502	-1	-nan
-0.111271	0.103121	0.0692965	0.112813	0.117695	-1	-nan
-0.11789	0.111271	0.103121	0.110371	0.112813	-1	-nan
-0.0528872	0.11789	0.111271	0.110371	0.110371	-1	-nan
-0.0206278	0.0528872	0.11789	0.10793	0.110371	-1	-nan
--0.0444712	0.0206278	0.0528872	0.10793	0.10793	-1	-nan
--0.184539	-0.0444712	0.0206278	0.103047	0.10793	-1	-nan
--0.262755	-0.184539	-0.0444712	0.0932813	0.103047	-1	-nan
+-0.0068164	-0.0068164	-0.0068164	-0.000262404	-1	1.13202
+-0.0068164	-0.0068164	-0.0068164	-0.000262404	-1	1.13202
+-0.0068164	-0.0068164	-0.0068164	-0.000262404	-1	1.13202
+-0.0068164	-0.0068164	-0.0068164	-0.000262404	-1	1.13202
+-0.0068164	-0.0068164	-0.0068164	0.00091464	-1	1.15092
+-0.0068164	-0.0068164	-0.0068164	0.00091464	-1	1.15092
+-0.0068164	-0.0068164	-0.0068164	0.00091464	-1	1.15092
+-0.0068164	-0.0068164	-0.0068164	0.00091464	-1	1.15092
+-0.0068164	-0.0068164	-0.0068164	0.00091464	-1	1.15092
+-0.00925781	-0.0068164	-0.0068164	-0.000262404	-1	1.13239
+-0.0312305	-0.00925781	-0.0068164	0.00091464	-1	1.15307
+-0.0483203	-0.0312305	-0.00925781	-0.000262404	-1	1.12485
+-0.0776172	-0.0483203	-0.0312305	0.00091464	-1	1.15162
+-0.124004	-0.0776172	-0.0483203	-0.000262404	-1	1.1326
+-0.182598	-0.124004	-0.0776172	0.00091464	-1	1.15049
+-0.246074	-0.182598	-0.124004	0.00091464	-1	1.1536
+-0.307109	-0.246074	-0.182598	0.00562137	-1	1.23666
+-0.358379	-0.307109	-0.246074	0.0157699	-1	1.41021
+-0.390117	-0.358379	-0.307109	0.0511589	-1	1.9904
+-0.41209	-0.390117	-0.358379	0.670577	-1	11.9494
+-0.431621	-0.41209	-0.390117	0.880008	-1	15.3208
+-0.441387	-0.431621	-0.41209	1.09459	-1	18.7686
+-0.451152	-0.441387	-0.431621	1.3485	-1	22.8521
+-0.470684	-0.451152	-0.441387	1.59634	-1	26.8335
+-0.502422	-0.470684	-0.451152	1.78913	-1	29.927
+-0.531719	-0.502422	-0.470684	1.90993	-1	31.8635
+-0.558574	-0.531719	-0.502422	1.99412	-1	33.2211
+-0.573223	-0.558574	-0.531719	2.13201	-1	35.4388
+-0.58543	-0.573223	-0.558574	2.17352	-1	36.115
+-0.612285	-0.58543	-0.573223	2.11745	-1	35.2209
+-0.646465	-0.612285	-0.58543	2.02358	-1	33.7106
+-0.683086	-0.646465	-0.612285	1.8979	-1	31.6948
+-0.719707	-0.683086	-0.646465	1.75394	-1	29.3889
+-0.770977	-0.719707	-0.683086	1.60755	-1	27.0476
+-0.792949	-0.770977	-0.719707	1.52218	-1	25.6725
+-0.807598	-0.792949	-0.770977	1.38067	-1	23.4223
+-0.805156	-0.807598	-0.792949	1.23672	-1	21.1163
+-0.81248	-0.805156	-0.807598	1.10614	-1	19.0322
+-0.797832	-0.81248	-0.805156	0.993841	-1	17.2214
+-0.790508	-0.797832	-0.81248	0.905951	-1	15.8232
+-0.790508	-0.790508	-0.797832	0.863178	-1	15.1317
+-0.790508	-0.790508	-0.790508	0.847265	-1	14.8717
+-0.790508	-0.790508	-0.790508	0.863091	-1	15.1257
+-0.788066	-0.790508	-0.790508	0.913098	-1	15.928
+-0.785625	-0.788066	-0.790508	0.986251	-1	17.1034
+-0.788066	-0.785625	-0.788066	1.08997	-1	18.7685
+-0.785625	-0.788066	-0.785625	1.19369	-1	20.4299
+-0.785625	-0.785625	-0.788066	1.29984	-1	22.1369
+-0.775859	-0.785625	-0.785625	1.40356	-1	23.7987
+-0.773418	-0.775859	-0.785625	1.49633	-1	25.2934
+-0.773418	-0.773418	-0.775859	1.57934	-1	26.6212
+-0.773418	-0.773418	-0.773418	1.63793	-1	27.5601
+-0.780742	-0.773418	-0.773418	1.68676	-1	28.345
+-0.785625	-0.780742	-0.773418	1.69535	-1	28.4792
+-0.785625	-0.785625	-0.780742	1.69173	-1	28.4228
+-0.788066	-0.785625	-0.785625	1.66614	-1	28.0154
+-0.785625	-0.788066	-0.785625	1.61495	-1	27.1919
+-0.785625	-0.785625	-0.788066	1.54298	-1	26.0396
+-0.785625	-0.785625	-0.785625	1.4588	-1	24.6869
+-0.788066	-0.785625	-0.785625	1.37217	-1	23.2968
+-0.788066	-0.788066	-0.785625	1.29404	-1	22.0412
+-0.788066	-0.788066	-0.788066	1.21963	-1	20.8482
+-0.785625	-0.788066	-0.788066	1.15371	-1	19.7898
+-0.778301	-0.785625	-0.788066	1.0914	-1	18.7901
+-0.773418	-0.778301	-0.785625	1.05478	-1	18.2045
+-0.773418	-0.773418	-0.778301	1.02549	-1	17.7327
+-0.761211	-0.773418	-0.773418	1.01934	-1	17.629
+-0.729473	-0.761211	-0.773418	1.02052	-1	17.6506
+-0.722148	-0.729473	-0.761211	1.0425	-1	18.014
+-0.709941	-0.722148	-0.729473	1.07784	-1	18.5638
+-0.692852	-0.709941	-0.722148	1.13029	-1	19.4059
+-0.675762	-0.692852	-0.709941	1.17786	-1	20.1696
+-0.663555	-0.675762	-0.692852	1.2389	-1	21.1472
+-0.670879	-0.663555	-0.675762	1.29378	-1	22.0259
+-0.683086	-0.670879	-0.663555	1.34505	-1	22.8385
+-0.685527	-0.683086	-0.670879	1.39143	-1	23.5805
+-0.685527	-0.685527	-0.683086	1.42074	-1	24.057
+-0.683086	-0.685527	-0.685527	1.44026	-1	24.3717
+-0.687969	-0.683086	-0.685527	1.44642	-1	24.4727
+-0.687969	-0.687969	-0.683086	1.43547	-1	24.2925
+-0.692852	-0.687969	-0.687969	1.41838	-1	24.022
+-0.700176	-0.692852	-0.687969	1.3879	-1	23.5309
+-0.702617	-0.700176	-0.692852	1.35255	-1	22.9623
+-0.705059	-0.702617	-0.700176	1.29884	-1	22.1037
+-0.705059	-0.705059	-0.702617	1.25128	-1	21.3404
+-0.709941	-0.705059	-0.705059	1.18662	-1	20.3049
+-0.714824	-0.709941	-0.705059	1.15	-1	19.7148
+-0.717266	-0.714824	-0.709941	1.11094	-1	19.0883
+-0.717266	-0.717266	-0.714824	1.08164	-1	18.6196
+-0.717266	-0.717266	-0.717266	1.05596	-1	18.2089
+-0.719707	-0.717266	-0.717266	1.04864	-1	18.0918
+-0.722148	-0.719707	-0.717266	1.04132	-1	17.9731
+-0.722148	-0.722148	-0.719707	1.04738	-1	18.0704
+-0.722148	-0.722148	-0.722148	1.06808	-1	18.4044
+-0.722148	-0.722148	-0.722148	1.09493	-1	18.8353
+-0.722148	-0.722148	-0.722148	1.12785	-1	19.3637
+-0.714824	-0.722148	-0.722148	1.16936	-1	20.0289
+-0.705059	-0.714824	-0.722148	1.20354	-1	20.5806
+-0.705059	-0.705059	-0.714824	1.2426	-1	21.2089
+-0.705059	-0.705059	-0.705059	1.27434	-1	21.7121
+-0.697734	-0.705059	-0.705059	1.30852	-1	22.2597
+-0.692852	-0.697734	-0.705059	1.31584	-1	22.3809
+-0.687969	-0.692852	-0.697734	1.33293	-1	22.6528
+-0.675762	-0.687969	-0.692852	1.32687	-1	22.5537
+-0.668437	-0.675762	-0.687969	1.33175	-1	22.6353
+-0.65623	-0.668437	-0.675762	1.30861	-1	22.2586
+-0.631816	-0.65623	-0.668437	1.29396	-1	22.0227
+-0.597637	-0.631816	-0.65623	1.25978	-1	21.4761
+-0.575664	-0.597637	-0.631816	1.23419	-1	21.0675
+-0.553691	-0.575664	-0.597637	1.19394	-1	20.4099
+-0.519512	-0.553691	-0.575664	1.16953	-1	20.0125
+-0.470684	-0.519512	-0.553691	1.14023	-1	19.5418
+-0.426738	-0.470684	-0.519512	1.13291	-1	19.4259
+-0.37791	-0.426738	-0.470684	1.08896	-1	18.709
+-0.338848	-0.37791	-0.426738	0.943748	-1	16.3742
+-0.304668	-0.338848	-0.37791	0.602034	-1	10.8769
+-0.275371	-0.304668	-0.338848	0.500681	-1	9.24177
+-0.23875	-0.275371	-0.304668	0.292157	-1	5.88538
+-0.216777	-0.23875	-0.275371	0.105959	-1	2.89713
+-0.207012	-0.216777	-0.23875	-0.0692052	-1	0.0741931
+-0.20457	-0.207012	-0.216777	-0.25061	-1	-2.84598
+-0.202129	-0.20457	-0.207012	-0.3895	-1	-5.08045
+-0.180156	-0.202129	-0.20457	-0.435976	-1	-5.82981
+-0.172832	-0.180156	-0.202129	-0.444743	-1	-5.95973
+-0.172832	-0.172832	-0.180156	-0.418152	-1	-5.54239
+-0.172832	-0.172832	-0.172832	-0.386672	-1	-5.04172
+-0.175273	-0.172832	-0.172832	-0.291721	-1	-3.51726
+-0.175273	-0.175273	-0.172832	-0.163864	-1	-1.46645
+-0.172832	-0.175273	-0.175273	-0.0176435	-1	0.881799
+-0.172832	-0.172832	-0.175273	0.13717	-1	3.36829
+-0.172832	-0.172832	-0.172832	0.291984	-1	5.85174
+-0.172832	-0.172832	-0.172832	0.432235	-1	8.10298
+-0.172832	-0.172832	-0.172832	0.567595	-1	10.2757
+-0.172832	-0.172832	-0.172832	0.670048	-1	11.9203
+-0.172832	-0.172832	-0.172832	0.753058	-1	13.2527
+-0.175273	-0.172832	-0.172832	0.800615	-1	14.0164
+-0.175273	-0.175273	-0.172832	0.818968	-1	14.3095
+-0.175273	-0.175273	-0.175273	0.799525	-1	13.999
+-0.175273	-0.175273	-0.175273	0.760638	-1	13.3748
+-0.175273	-0.175273	-0.175273	0.674194	-1	11.9872
+-0.175273	-0.175273	-0.175273	0.59018	-1	10.6387
+-0.175273	-0.175273	-0.175273	0.48547	-1	8.9579
+-0.175273	-0.175273	-0.175273	0.383189	-1	7.31614
+-0.175273	-0.175273	-0.175273	0.280832	-1	5.67316
+-0.175273	-0.175273	-0.175273	0.196732	-1	4.32321
+-0.175273	-0.175273	-0.175273	0.118698	-1	3.07066
+-0.175273	-0.175273	-0.175273	0.0674284	-1	2.2477
+-0.175273	-0.175273	-0.175273	0.0308084	-1	1.65989
+-0.175273	-0.175273	-0.175273	0.0185116	-1	1.46251
+-0.175273	-0.175273	-0.175273	0.0171522	-1	1.44069
+-0.175273	-0.175273	-0.175273	0.0402224	-1	1.811
+-0.175273	-0.175273	-0.175273	0.0730425	-1	2.33781
+-0.175273	-0.175273	-0.175273	0.125403	-1	3.17828
+-0.175273	-0.175273	-0.175273	0.182643	-1	4.09707
+-0.175273	-0.175273	-0.175273	0.252094	-1	5.21186
+-0.170391	-0.175273	-0.175273	0.315477	-1	6.22853
+-0.170391	-0.170391	-0.175273	0.37887	-1	7.24907
+-0.170391	-0.170391	-0.170391	0.427614	-1	8.02838
+-0.170391	-0.170391	-0.170391	0.464234	-1	8.61619
+-0.170391	-0.170391	-0.170391	0.488644	-1	9.00801
+-0.170391	-0.170391	-0.170391	0.505734	-1	9.28233
+-0.170391	-0.170391	-0.170391	0.497237	-1	9.14595
+-0.167949	-0.170391	-0.170391	0.489994	-1	9.02931
+-0.160625	-0.167949	-0.170391	0.46567	-1	8.63928
+-0.155742	-0.160625	-0.167949	0.442524	-1	8.26994
+-0.153301	-0.155742	-0.160625	0.392603	-1	7.4666
+-0.148418	-0.153301	-0.155742	0.34631	-1	6.72119
+-0.141094	-0.148418	-0.153301	0.286619	-1	5.76341
+-0.128887	-0.141094	-0.148418	0.230556	-1	4.86306
+-0.121562	-0.128887	-0.141094	0.176932	-1	4.00404
+-0.114238	-0.121562	-0.128887	0.129375	-1	3.23631
+-0.114238	-0.114238	-0.121562	0.0598388	-1	2.11997
+-0.114238	-0.114238	-0.114238	0.0293622	-1	1.62612
+-0.114238	-0.114238	-0.114238	-0.0109612	-1	0.978869
+-0.114238	-0.114238	-0.114238	-0.0146747	-1	0.919262
+-0.114238	-0.114238	-0.114238	-0.0159376	-1	0.89899
+-0.114238	-0.114238	-0.114238	-0.00507745	-1	1.07331
+-0.109355	-0.114238	-0.114238	0.0216862	-1	1.50218
+-0.104473	-0.109355	-0.114238	0.0630129	-1	2.16779
+-0.104473	-0.104473	-0.109355	0.109316	-1	2.91092
+-0.104473	-0.104473	-0.104473	0.156787	-1	3.6698
+-0.104473	-0.104473	-0.104473	0.20309	-1	4.41303
+-0.104473	-0.104473	-0.104473	0.254274	-1	5.23461
+-0.0971484	-0.104473	-0.104473	0.292071	-1	5.84021
+-0.094707	-0.0971484	-0.104473	0.328604	-1	6.43074
+-0.094707	-0.094707	-0.0971484	0.345694	-1	6.7019
+-0.094707	-0.094707	-0.094707	0.345694	-1	6.70035
+-0.094707	-0.094707	-0.094707	0.337187	-1	6.56381
+-0.0922656	-0.094707	-0.094707	0.327427	-1	6.40678
+-0.0849414	-0.0922656	-0.094707	0.299391	-1	5.95715
+-0.0873828	-0.0849414	-0.0922656	0.272627	-1	5.53085
+-0.0873828	-0.0873828	-0.0849414	0.231214	-1	4.85995
+-0.0873828	-0.0873828	-0.0873828	0.17514	-1	3.96144
+-0.0873828	-0.0873828	-0.0873828	0.150816	-1	3.571
+-0.0873828	-0.0873828	-0.0873828	0.11546	-1	3.00348
+-0.0873828	-0.0873828	-0.0873828	0.0837199	-1	2.494
+-0.0800586	-0.0873828	-0.0873828	0.0679029	-1	2.23902
+-0.0629687	-0.0800586	-0.0873828	0.0519899	-1	1.98552
+-0.0385547	-0.0629687	-0.0800586	0.0495399	-1	1.94834
+-0.0116992	-0.0385547	-0.0629687	0.0336265	-1	1.69297
+-0.004375	-0.0116992	-0.0385547	0.00341911	-1	1.20792
+-0.00925781	-0.004375	-0.0116992	-0.0823765	-1	-0.181075
+-0.00925781	-0.00925781	-0.004375	-0.112594	-1	-0.673748
+-0.0068164	-0.00925781	-0.00925781	-0.116124	-1	-0.727676
+-0.0068164	-0.0068164	-0.00925781	-0.113771	-1	-0.688412
+-0.0068164	-0.0068164	-0.0068164	-0.152658	-1	-1.31415
+-0.0068164	-0.0068164	-0.0068164	-0.131855	-1	-0.980235
+-0.0068164	-0.0068164	-0.0068164	-0.140448	-1	-1.11816
+-0.0068164	-0.0068164	-0.0068164	-0.117205	-1	-0.74508
+-0.0068164	-0.0068164	-0.0068164	-0.0782311	-1	-0.119494
+-0.0068164	-0.0068164	-0.0068164	-0.0271438	-1	0.700534
+-0.0068164	-0.0068164	-0.0068164	0.0178963	-1	1.4235
+-0.004375	-0.0068164	-0.0068164	0.0714335	-1	2.28249
+-0.0068164	-0.004375	-0.0068164	0.101814	-1	2.77199
+0.000507817	-0.0068164	-0.004375	0.135907	-1	3.31511
+0.00783204	0.000507817	-0.0068164	0.149197	-1	3.53337
+0.0175977	0.00783204	0.000507817	0.154001	-1	3.60885
+0.0298047	0.0175977	0.00783204	0.151551	-1	3.56902
+0.0542188	0.0298047	0.0175977	0.145408	-1	3.46802
+0.0908398	0.0542188	0.0298047	0.125878	-1	3.15624
+0.134785	0.0908398	0.0542188	0.0954011	-1	2.66736
+0.19582	0.134785	0.0908398	0.0222475	-1	1.48763
+0.259297	0.19582	0.134785	-0.207156	-1	-2.19471
+0.325215	0.259297	0.19582	-0.547164	-1	-7.66215
+0.388691	0.325215	0.259297	-0.792988	-1	-11.6175
+0.459492	0.388691	0.325215	-1.1371	-1	-17.1546
+0.520527	0.459492	0.388691	-1.57241	-1	-24.1482
+0.579121	0.520527	0.459492	-1.91636	-1	-29.6855
+0.640156	0.579121	0.520527	-2.23578	-1	-34.8247
+0.701191	0.640156	0.579121	-2.82009	-1	-44.2128
+0.745137	0.701191	0.640156	-3.17676	-1	-49.9459
+0.784199	0.745137	0.701191	-3.37849	-1	-53.2017
+0.82082	0.784199	0.745137	-3.54584	-1	-55.8974
+0.857441	0.82082	0.784199	-3.67579	-1	-57.9912
+0.898945	0.857441	0.82082	-3.75532	-1	-59.2748
+0.930684	0.898945	0.857441	-3.78812	-1	-59.804
+0.962422	0.930684	0.898945	-3.71541	-1	-58.6485
+0.991719	0.962422	0.930684	-3.64619	-1	-57.5425
+1.02346	0.991719	0.962422	-3.47698	-1	-54.8335
+1.04299	1.02346	0.991719	-3.26588	-1	-51.4471
+1.06496	1.04299	1.02346	-3.13041	-1	-49.284
+1.10891	1.06496	1.04299	-2.92302	-1	-45.9606
+1.14797	1.10891	1.06496	-2.84609	-1	-44.7187
+1.16994	1.14797	1.10891	-2.7324	-1	-42.9012
+1.1968	1.16994	1.14797	-2.67521	-1	-41.9986
+1.23098	1.1968	1.16994	-2.66288	-1	-41.8033
+1.24318	1.23098	1.1968	-2.60578	-1	-40.8847
+1.24318	1.24318	1.23098	-2.58478	-1	-40.5619
+1.2383	1.24318	1.24318	-2.62772	-1	-41.2581
+1.23342	1.2383	1.24318	-2.6884	-1	-42.2345
+1.22854	1.23342	1.2383	-2.74956	-1	-43.2153
+1.22854	1.22854	1.23342	-2.81298	-1	-44.2332
+1.22854	1.22854	1.22854	-2.88826	-1	-45.4385
+1.22609	1.22854	1.22854	-2.96446	-1	-46.6611
+1.21145	1.22609	1.22854	-3.02229	-1	-47.5888
+1.19924	1.21145	1.22609	-3.09225	-1	-48.7173
+1.19191	1.19924	1.21145	-3.14394	-1	-49.544
+1.18947	1.19191	1.19924	-3.18242	-1	-50.1581
+1.18947	1.18947	1.19191	-3.21131	-1	-50.6187
+1.19191	1.18947	1.18947	-3.22717	-1	-50.8721
+1.19191	1.19191	1.18947	-3.23597	-1	-51.0118
+1.19191	1.19191	1.19191	-3.23671	-1	-51.0252
+1.18947	1.19191	1.19191	-3.2132	-1	-50.6476
+1.19191	1.18947	1.19191	-3.18888	-1	-50.2589
+1.19191	1.19191	1.18947	-3.16708	-1	-49.9061
+1.19191	1.19191	1.19191	-3.14075	-1	-49.4849
+1.19191	1.19191	1.19191	-3.12646	-1	-49.2555
+1.17482	1.19191	1.19191	-3.09642	-1	-48.7708
+1.16018	1.17482	1.19191	-3.0833	-1	-48.5685
+1.15041	1.16018	1.17482	-3.07877	-1	-48.4924
+1.12111	1.15041	1.16018	-3.09712	-1	-48.7793
+1.06008	1.12111	1.15041	-3.10328	-1	-48.8807
+0.999043	1.06008	1.12111	-3.10689	-1	-48.9483
+0.930684	0.999043	1.06008	-3.10545	-1	-48.9135
+0.840352	0.930684	0.999043	-3.11387	-1	-49.0381
+0.73293	0.840352	0.930684	-3.11975	-1	-49.1284
+0.608418	0.73293	0.840352	-3.14372	-1	-49.5028
+0.486348	0.608418	0.73293	-3.16408	-1	-49.8194
+0.371602	0.486348	0.608418	-3.18064	-1	-50.0636
+0.269063	0.371602	0.486348	-3.10793	-1	-48.8738
+0.171406	0.269063	0.371602	-2.1052	-1	-32.7537
+0.0981641	0.171406	0.269063	-0.798686	-1	-11.7658
+0.0493359	0.0981641	0.171406	0.185961	-1	4.06382
+0.0127148	0.0493359	0.0981641	1.32353	-1	22.3456
+-0.0141406	0.0127148	0.0493359	2.15405	-1	35.6894
+-0.0532031	-0.0141406	0.0127148	2.76715	-1	45.5432
+-0.0825	-0.0532031	-0.0141406	3.42123	-1	56.0398
+-0.0922656	-0.0825	-0.0532031	3.51739	-1	57.5916
+-0.0922656	-0.0922656	-0.0825	3.46917	-1	56.8303
+-0.0922656	-0.0922656	-0.0922656	3.3989	-1	55.7086
+-0.0922656	-0.0922656	-0.0922656	2.68408	-1	44.2346
+-0.094707	-0.0922656	-0.0922656	2.34815	-1	38.8428
+-0.0922656	-0.094707	-0.0922656	1.52492	-1	25.6268
+-0.0922656	-0.0922656	-0.094707	0.575217	-1	10.3857
+-0.0873828	-0.0922656	-0.0922656	-0.0335767	-1	0.611326
+-0.0873828	-0.0873828	-0.0922656	-0.654313	-1	-9.34946
+-0.0873828	-0.0873828	-0.0873828	-1.27128	-1	-19.2559
+-0.0873828	-0.0873828	-0.0873828	-1.6654	-1	-25.5821
+-0.0873828	-0.0873828	-0.0873828	-1.87176	-1	-28.8945
+-0.0873828	-0.0873828	-0.0873828	-1.80569	-1	-27.8339
+-0.0873828	-0.0873828	-0.0873828	-1.57748	-1	-24.1708
+-0.0825	-0.0873828	-0.0873828	-1.55448	-1	-23.8023
+-0.0727344	-0.0825	-0.0873828	-1.57227	-1	-24.0863
+-0.0654102	-0.0727344	-0.0825	-1.3631	-1	-20.7271
+-0.0532031	-0.0654102	-0.0727344	-0.949292	-1	-14.0884
+-0.0263477	-0.0532031	-0.0654102	-0.587574	-1	-8.28346
+-0.0068164	-0.0263477	-0.0532031	-0.406169	-1	-5.36589
+0.0102734	-0.0068164	-0.0263477	0.0524549	-1	1.98806
+0.0420117	0.0102734	-0.0068164	0.585775	-1	10.542
+0.0664258	0.0420117	0.0102734	0.908218	-1	15.7226
+0.085957	0.0664258	0.0420117	1.24342	-1	21.095
+0.103047	0.085957	0.0664258	1.31649	-1	22.2617
+0.10793	0.103047	0.085957	1.40076	-1	23.6117
+0.10793	0.10793	0.103047	1.16268	-1	19.7823
+0.105488	0.10793	0.10793	0.652516	-1	11.5906
+0.0981641	0.105488	0.10793	0.440558	-1	8.18799
+0.0932813	0.0981641	0.105488	0.000104688	-1	1.11584
+0.0883984	0.0932813	0.0981641	-0.355816	-1	-4.59485
+0.0810742	0.0883984	0.0932813	-0.660112	-1	-9.47804
+0.0810742	0.0810742	0.0883984	-0.83031	-1	-12.2114
+0.0810742	0.0810742	0.0810742	-0.956914	-1	-14.2389
+0.0810742	0.0810742	0.0810742	-1.00457	-1	-15.0038
+0.0810742	0.0810742	0.0810742	-0.947673	-1	-14.0906
+0.0810742	0.0810742	0.0810742	-0.800631	-1	-11.7303
+0.0810742	0.0810742	0.0810742	-0.532774	-1	-7.4308
+0.0786328	0.0810742	0.0810742	-0.314845	-1	-3.93235
+0.07375	0.0786328	0.0810742	-0.0233984	-1	0.745055
+0.07375	0.07375	0.0786328	0.417055	-1	7.81358
+0.07375	0.07375	0.07375	0.736703	-1	12.9475
+0.0761914	0.07375	0.07375	0.981933	-1	16.8835
+0.0810742	0.0761914	0.07375	1.22355	-1	20.7625
+6	0.0810742	0.0761914	1.31623	-1	21.3667
+0.083515	6	0.0810742	0.085957	-1	6.12067
+1.25754	0.083515	6	0.085957	-1	-1.43259
+1.04388	1.25754	0.083515	0.0835156	-1	3.03566
+0.69964	1.04388	1.25754	0.0810742	-1	2.17166
+0.40423	0.69964	1.04388	0.0810742	-1	2.14097
+-0.00339349	0.40423	0.69964	0.0810742	-1	2.23985
+-0.47929	-0.00339349	0.40423	0.0810742	-1	2.24929
+-0.782765	-0.47929	-0.00339349	0.0761914	-1	2.18408
+-1.05206	-0.782765	-0.47929	0.0688672	-1	2.2234
+-1.3322	-1.05206	-0.782765	0.0664258	-1	2.25411
+-1.48513	-1.3322	-1.05206	0.0688672	-1	2.31584
+-1.51046	-1.48513	-1.3322	0.0664258	-1	2.36481
+-1.44354	-1.51046	-1.48513	0.061543	-1	2.35806
+-1.23781	-1.44354	-1.51046	0.0493359	-1	2.18837
+-0.990673	-1.23781	-1.44354	0.0493359	-1	2.23475
+-0.704289	-0.990673	-1.23781	0.0493359	-1	2.21244
+-0.315191	-0.704289	-0.990673	0.0493359	-1	2.17248
+0.0191054	-0.315191	-0.704289	0.0493359	-1	2.17861
+0.304573	0.0191054	-0.315191	0.0493359	-1	2.09329
+0.681643	0.304573	0.0191054	0.0517773	-1	2.0384
+0.941513	0.681643	0.304573	0.0468945	-1	1.97051
+1.05618	0.941513	0.681643	0.0420117	-1	1.79446
+1.155	1.05618	0.941513	0.0444531	-1	1.72397
+1.18548	1.155	1.05618	0.0444531	-1	1.70704
+1.1183	1.18548	1.155	0.0444531	-1	1.67297
+0.9682	1.1183	1.18548	0.0420117	-1	1.59577
+0.774154	0.9682	1.1183	0.0420117	-1	1.57565
+0.565457	0.774154	0.9682	0.0273633	-1	1.34836
+0.360463	0.565457	0.774154	0.00294922	-1	0.982711
+0.129883	0.360463	0.565457	-0.0312305	-1	0.475706
+-0.053044	0.129883	0.360463	-0.0800586	-1	-0.291556
+-0.115175	-0.053044	0.129883	-0.128887	-1	-1.03149
+-0.250535	-0.115175	-0.053044	-0.192363	-1	-1.95196
+-0.284542	-0.250535	-0.115175	-0.268047	-1	-3.20506
+-0.303899	-0.284542	-0.250535	-0.34373	-1	-4.35183
+-0.274512	-0.303899	-0.284542	-0.414531	-1	-5.48293
+-0.208592	-0.274512	-0.303899	-0.475566	-1	-6.44222
+-0.0830786	-0.208592	-0.274512	-0.539043	-1	-7.45824
+0.231505	-0.0830786	-0.208592	-0.582988	-1	-8.17575
+0.909956	0.231505	-0.0830786	4	-1	65.3995
+1.40168	0.909956	0.231505	-0.62693	-1	-8.72816
+-0.668437	1.40168	0.909956	1.9435	-1	32.7105
+-0.69041	-0.668437	1.40168	2.32688	-1	37.2893
+-0.702617	-0.69041	-0.668437	2.55655	-1	42.2788
+-0.717266	-0.702617	-0.69041	2.64806	-1	43.7565
+8	-0.717266	-0.702617	2.57844	-1	41.3343
+-0.72214	8	-0.717266	2.39777	-1	45.0796
+-0.72459	-0.72214	8	-0.727031	-1	-15.9489
+2.11348	-0.72459	-0.72214	-0.736797	-1	-10.9922
+1.82549	2.11348	-0.72459	-0.766094	-1	-9.68201
+1.48377	1.82549	2.11348	-0.788066	-1	-11.9621
+1.29469	1.48377	1.82549	-0.81248	-1	-12.3519
+1.12877	1.29469	1.48377	-0.839336	-1	-12.6568
+0.927479	1.12877	1.29469	-0.890605	-1	-13.431
+0.737231	0.927479	1.12877	-0.956523	-1	-14.4784
+0.617601	0.737231	0.927479	-1.02	-1	-15.4679
+0.566245	0.617601	0.737231	-1.06639	-1	-16.1572
+0.597899	0.566245	0.617601	-1.11766	-1	-16.9404
+0.685692	0.597899	0.566245	-1.15672	-1	-17.5285
+0.845569	0.685692	0.597899	-1.18602	-1	-17.9891
+1.04197	0.845569	0.685692	-1.20311	-1	-18.2508
+1.25799	1.04197	0.845569	-1.21531	-1	-18.4603
+1.47156	1.25799	1.04197	-1.22508	-1	-18.6417
+1.69491	1.47156	1.25799	-1.23729	-1	-18.8776
+1.87675	1.69491	1.47156	-1.23973	-1	-18.943
+2.02324	1.87675	1.69491	-1.23729	-1	-18.9564
+2.06727	2.02324	1.87675	-1.23729	-1	-18.9888
+2.05389	2.06727	2.02324	-1.23729	-1	-19.0529
+1.97096	2.05389	2.06727	-1.2324	-1	-18.9982
+1.82827	1.97096	2.05389	-1.22508	-1	-18.9016
+1.62455	1.82827	1.97096	-1.22264	-1	-18.8665
+1.39152	1.62455	1.82827	-1.22264	-1	-18.8657
+1.12432	1.39152	1.62455	-1.22264	-1	-18.8389
+0.863178	1.12432	1.39152	-1.21287	-1	-18.6585
+0.639841	0.863178	1.12432	-1.21287	-1	-18.6151
+0.460348	0.639841	0.863178	-1.21043	-1	-18.5199
+0.312605	0.460348	0.639841	-1.21043	-1	-18.4657
+0.217385	0.312605	0.460348	-1.21043	-1	-18.4279
+0.161148	0.217385	0.312605	-1.21043	-1	-18.3839
+0.183031	0.161148	0.217385	-1.20799	-1	-18.3219
+0.252482	0.183031	0.161148	-1.21043	-1	-18.3223
+0.382962	0.252482	0.183031	-1.21043	-1	-18.3133
+0.526915	0.382962	0.252482	-1.21043	-1	-18.2991
+0.706312	0.526915	0.382962	-1.21043	-1	-18.3207
+0.891776	0.706312	0.526915	-1.21043	-1	-18.3302
+1.10535	0.891776	0.706312	-1.20799	-1	-18.3234
+1.325	1.10535	0.891776	-1.20799	-1	-18.3434
+1.56298	1.325	1.10535	-1.20799	-1	-18.3803
+1.76192	1.56298	1.325	-1.20799	-1	-18.404
+1.94014	1.76192	1.56298	-1.20799	-1	-18.4601
+2.06347	1.94014	1.76192	-1.20799	-1	-18.4958
+2.14892	2.06347	1.94014	-1.20799	-1	-18.5464
+2.16972	2.14892	2.06347	-1.20799	-1	-18.5755
+2.14295	2.16972	2.14892	-1.20799	-1	-18.6131
+2.05145	2.14295	2.16972	-1.20799	-1	-18.629
+1.94538	2.05145	2.14295	-1.20799	-1	-18.6521
+1.8063	1.94538	2.05145	-1.20799	-1	-18.6381
+1.6855	1.8063	1.94538	-1.20799	-1	-18.6377
+1.51595	1.6855	1.8063	-1.21043	-1	-18.6371
+1.34152	1.51595	1.6855	-1.20799	-1	-18.5988
+1.15968	1.34152	1.51595	-1.20799	-1	-18.5706
+0.992491	1.15968	1.34152	-1.20799	-1	-18.5461
+0.830175	0.992491	1.15968	-1.21043	-1	-18.5478
+0.698345	0.830175	0.992491	-1.21043	-1	-18.5212
+0.587211	0.698345	0.830175	-1.21043	-1	-18.4821
+0.511531	0.587211	0.698345	-1.21043	-1	-18.455
+0.462615	0.511531	0.587211	-1.21043	-1	-18.4234
+0.454021	0.462615	0.511531	-1.20555	-1	-18.3257
+0.480795	0.454021	0.462615	-1.19822	-1	-18.1862
+0.539299	0.480795	0.454021	-1.19578	-1	-18.1339
+0.629542	0.539299	0.480795	-1.19578	-1	-18.1287
+0.721049	0.629542	0.539299	-1.19578	-1	-18.1243
+0.821149	0.721049	0.629542	-1.19334	-1	-18.1014
+0.935812	0.821149	0.721049	-1.19334	-1	-18.1155
+1.03835	0.935812	0.821149	-1.19334	-1	-18.1242
+1.13356	1.03835	0.935812	-1.19334	-1	-18.1486
+1.22878	1.13356	1.03835	-1.18602	-1	-18.0522
+1.30934	1.22878	1.13356	-1.17869	-1	-17.9488
+1.35817	1.30934	1.22878	-1.17381	-1	-17.889
+1.40944	1.35817	1.30934	-1.16404	-1	-17.7611
+1.43268	1.40944	1.35817	-1.14207	-1	-17.4116
+1.45103	1.43268	1.40944	-1.12986	-1	-17.2367
+1.45103	1.45103	1.43268	-1.12742	-1	-17.2011
+1.44985	1.45103	1.45103	-1.12742	-1	-17.2125
+1.43276	1.44985	1.45103	-1.11521	-1	-17.0147
+1.41939	1.43276	1.44985	-1.09568	-1	-16.7089
+1.39623	1.41939	1.43276	-1.06395	-1	-16.1935
+1.38647	1.39623	1.41939	-1.04197	-1	-15.8449
+1.37426	1.38647	1.39623	-1.02	-1	-15.4817
+1.36576	1.37426	1.38647	-0.971172	-1	-14.6979
+1.36206	1.36576	1.37426	-0.895488	-1	-13.48
+1.35843	1.36206	1.36576	-0.795391	-1	-11.8696
+1.34623	1.35843	1.36206	-0.683086	-1	-10.0649
+1.34623	1.34623	1.35843	-0.561016	-1	-8.11069
+1.33158	1.34623	1.34623	-0.443828	-1	-6.21971
+1.32553	1.33158	1.34623	-0.341289	-1	-4.58185
+1.29866	1.32553	1.33158	-0.258281	-1	-3.23983
+1.28401	1.29866	1.32553	-0.189922	-1	-2.15296
+0.845828	1.28401	1.29866	-0.141094	-1	-1.29558
+0.522737	0.845828	1.28401	-0.114238	-1	-1.0749
+0.115816	0.522737	0.845828	-0.102031	-1	-0.737451
+-0.233606	0.115816	0.522737	-0.094707	-1	-0.611348
+-0.626439	-0.233606	0.115816	-0.094707	-1	-0.507908
+-0.875848	-0.626439	-0.233606	-0.094707	-1	-0.48898
+-1.08908	-0.875848	-0.626439	-0.0898242	-1	-0.281793
+-1.28295	-1.08908	-0.875848	-0.0800586	-1	-0.0680799
+-1.35175	-1.28295	-1.08908	-0.0312305	-1	0.74281
+-1.36104	-1.35175	-1.28295	0.0298047	-1	1.80495
+-1.29836	-1.36104	-1.35175	0.0932813	-1	2.85249
+-1.20638	-1.29836	-1.36104	0.151875	-1	3.82349
+-1.29226	-1.20638	-1.29836	0.200703	-1	4.63655
+-0.883372	-1.29226	-1.20638	0.227559	-1	4.89555
+-0.756034	-0.883372	-1.29226	0.237324	-1	5.33788
+-0.409969	-0.756034	-0.883372	0.23	-1	4.98679
+-0.355255	-0.409969	-0.756034	0.217793	-1	4.91347
+-0.550835	-0.355255	-0.409969	0.21291	-1	4.67802
+-0.626201	-0.550835	-0.355255	0.21291	-1	4.53492
+-0.286258	-0.626201	-0.550835	0.21291	-1	4.5622
+-0.241369	-0.286258	-0.626201	0.21291	-1	4.81127
+-0.271791	-0.241369	-0.286258	0.203145	-1	4.47065
+-0.239641	-0.271791	-0.241369	0.188496	-1	4.18358
+-0.228121	-0.239641	-0.271791	0.186055	-1	4.18166
+-0.211625	-0.228121	-0.239641	0.186055	-1	4.16583
+-0.140945	-0.211625	-0.228121	0.183613	-1	4.11883
+-0.0732423	-0.140945	-0.211625	0.171406	-1	3.94553
+-0.086921	-0.0732423	-0.140945	0.168965	-1	3.90491
+-0.0435324	-0.086921	-0.0732423	0.164082	-1	3.76868
+0.0127909	-0.0435324	-0.086921	0.154316	-1	3.63873
+0.0568273	0.0127909	-0.0435324	0.137227	-1	3.36473
+0.0570865	0.0568273	0.0127909	0.12502	-1	3.15992
+0.0692965	0.0570865	0.0568273	0.117695	-1	3.01271
+0.103121	0.0692965	0.0570865	0.112813	-1	2.93659
+0.111271	0.103121	0.0692965	0.110371	-1	2.90911
+0.11789	0.111271	0.103121	0.110371	-1	2.89162
+0.0528872	0.11789	0.111271	0.10793	-1	2.86103
+0.0206278	0.0528872	0.11789	0.10793	-1	2.82189
+-0.0444712	0.0206278	0.0528872	0.103047	-1	2.7748
+-0.184539	-0.0444712	0.0206278	0.0932813	-1	2.61965

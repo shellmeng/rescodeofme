@@ -22,6 +22,66 @@ typedef struct TrainPoint
 int makeTrainPoint(vector<TrainPoint> & tp)
 {
 	ifstream in;
+	in.open("train.txt");
+	if(!in)
+	{
+		cout<<"open file train error, the train data are in this file,exit"<<endl;
+		exit(0);
+	}
+
+	TrainPoint tem;
+	int ele;
+	double tmp;
+
+	vector<double> z;
+	vector<double> o;
+	
+	tem.x.push_back(vector<double > (0));
+	while(!in.eof())
+	{
+		/*tem.x.clear();
+		for(int i=0;i<NUM;i++)
+		{
+			in>>ele;
+			tem.x.push_back(ele);
+		}
+		tem.x.push_back(-1);
+		in>>tem.res;
+		tp.push_back(tem);
+		*/
+		in>>tmp;
+		z.push_back(tmp);
+		in>>tmp;
+		o.push_back(tmp);
+	}
+
+
+	//tp.erase(tp.end()-1);
+	o.erase(o.end()-1);
+	z.erase(z.end()-1);
+	cout<<"aaa"<<endl;
+
+
+	for(int i=3;i<o.size();i++)
+	{
+		tem.x[0].clear();
+		tem.x[0].push_back(z[i-1]);
+		tem.x[0].push_back(z[i-2]);
+		tem.x[0].push_back(z[i-3]);
+		tem.x[0].push_back(o[i-1]);
+
+		tem.x[0].push_back(-1);
+		tem.res=o[i];
+
+		tp.push_back(tem);
+	}
+	in.close();
+
+}
+/*
+int makeTrainPoint(vector<TrainPoint> & tp)
+{
+	ifstream in;
 	in.open("t.txt");
 	if(!in)
 	{
@@ -55,6 +115,8 @@ int makeTrainPoint(vector<TrainPoint> & tp)
 
 	in.close();
 }
+
+*/
 int printV3(vector< vector< vector<double> > >& weight)
 {
 	for(int i=0;i<weight.size();i++)
@@ -365,7 +427,7 @@ int main()
 	{
 		weight=adaptWeight(tp, weight,gama,lamada);
 
-		printV3(weight);
+		//printV3(weight);
 	}
 	}
 
